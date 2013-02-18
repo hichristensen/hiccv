@@ -1,0 +1,1008 @@
+\documentclass{article}
+\usepackage[latin1]{inputenc}              % Scandivanian characters
+\usepackage{fancyhdr}                      % headers on every page
+\usepackage{charter}
+\usepackage[T1]{fontenc}
+\usepackage{hiccurrvita}                   % currvita modified to handle
+                                           % multiple biographies
+\usepackage[unitcntnoreset]{bibtopic}      % multiple biographies
+\bibliographystyle{ieeetr}                 % numbered citations
+\usepackage{tocloft}                       % tabs with dots
+\usepackage{graphicx}                      % inclusion of graphics
+\usepackage[colorlinks=true,plainpages=false]{hyperref}
+ 
+\setlength{\topmargin} {-0.30in}
+\setlength{\textwidth} {6.85in}
+\setlength{\textheight}{8.50in}
+\evensidemargin -.1in
+\oddsidemargin  -.1in
+
+% \setlength{\itemsep}{0ex}
+
+\newenvironment{sublist}{%
+  \begin{list}{}{%
+      \setlength{\itemsep}{0em}\setlength{\parsep}{0em}%
+      \setlength{\topsep}{0em}\setlength{\parskip}{0em}%
+    }%
+}%
+{ \end{list} }
+               
+\newenvironment{subbulletlist}{%
+  \begin{list}{\labelitemii}{%
+      \setlength{\topsep}{\itemsep}\setlength{\parskip}{\parsep}%
+    }%
+}%
+{ \end{list} }
+                              
+% -- headers --------------------------------------------------
+\rhead{Henrik I Christensen}
+\lhead{Curriculum Vitae}
+\rfoot{\today}
+\pagestyle{fancy}
+\title{CV for Henrik I Christensen}
+
+% -------------------------------------------------------------
+\begin{document}
+\pagenumbering{arabic}
+\begin{tabular}{cl}
+  \begin{minipage}{4cm}
+    \includegraphics[width=3.5cm]{hic-face-new}
+  \end{minipage}& 
+  \begin{minipage}{10cm}
+    {\Large
+      \begin{center}
+        Curriculum Vitae\\
+        for\\
+        Dr. Henrik Iskov Christensen
+      \end{center}
+    }
+  \end{minipage}
+\end{tabular}
+\vspace{5mm}
+\setlength{\cvlabelwidth}{35mm}
+
+% -------------------------------------------------------------
+
+\begin{cv}
+  
+  \noindent{\bf \large I. PERSONAL DATA}
+  
+  \noindent
+  \begin{cvlist}{~}
+  \item[Name:]\ \\ 
+    Henrik Iskov Christensen,\\
+    Born: Frederikshavn, Denmark\\
+  \item[Address:]\ \\
+    855 Peachtree St NE, Unit 2603\\
+    Atlanta, GA 30308\\
+    Phone: +1 404 754 7624 / 404 824 7584\\
+    Email: \url{hichristensen@gmail.com}\\
+%    \end{minipage}
+%    \begin{minipage}{6cm}
+  \item[Affiliation:]\ \\
+    Center for Robotics and Intelligent Machines\\
+    College of Computing - Interactive Computing\\
+    Georgia Institute of Technology\\
+    Atlanta, GA 30332-0280\\
+    Phone: +1 404 385 7480, Cell: +1 404 889 2500\\
+    Email: \url{hic@cc.gatech.edu}\\
+%    \end{minipage}
+  \item[Citizenship:] Danish (US Green Card Holder)
+% \item[Marital status:] Unmarried
+  \end{cvlist}
+
+  \begin{cvlist}{Professional interests:}
+  \item A {\em systems} oriented approach to Machine Perception,
+    Robotics, and Design of Intelligent Machines.
+  \end{cvlist}
+
+% -------------------------------------------------------------
+
+\noindent{\bf \large II. EDUCATIONAL BACKGROUND}
+
+  \begin{cvlist}{~}
+  \item[1989] Ph.D, Faculty Council of Technical Sciences, Aalborg
+    University, DK.
+    \begin{sublist}
+    \item Major subjects: Motion Analysis, Multi Scale Image
+      Representation of Space and Time, and Concurrent computing.
+    \item Dissertation: ``Aspects of Real Time Image Sequence
+      Analysis''.
+    \item Supervisor: Prof. Erik Granum.
+    \end{sublist}
+  \item[1987] M.Sc. EE (summa cum lauda), Institute of Electronic
+    Systems, Aalborg University, DK
+    \begin{sublist}
+    \item Major subjects: Process Control and Image Analysis 
+    \item Thesis: ``Monitoring Moving Objects in Real-Time''
+    \end{sublist}
+  \item[1981] Technical Assistant -- Mechanical Engineering, Cert.
+    of Apprenticeship (with honors), Frederikshavn Technical
+    School, Denmark.
+\end{cvlist}
+
+% -------------------------------------------------------------
+
+\noindent{\bf \large III. EMPLOYMENT}
+
+\begin{cvlist}{Professional Experience:}
+\item[Aug 2009 --] Adjunct Professor of Electrical and Computer
+  Engineering, College of Engineering, Georgia Institute of
+  Technology. 
+
+\item[Aug 2006 --] Director Georgia Tech Center for Robotics and
+  Intelligent Machines (RIM@GT), an interdepartmental research center
+  involving College of Computing, College of Engineering, and GTRI. 
+
+\item[Feb 2006 --] Distinguished Professor of Computer Science/Kuka
+  Chair of Robotics -- Georgia Institute of Technology, Atlanta, GA,
+  USA. Part time during 2006 and full time from January 2007
+  
+\item[July 1998--Dec 2006] Chaired Professor of Computer Science,
+  Dept.\ of Numerical Analysis and Computer Science, Royal Institute
+  of Technology, Stockholm, Sweden. On part-time leave during 2006
+
+\item[Sept. 1996--Jul 2006] Scientific Director for ``Center for
+  Autonomous Systems'', Kungliga Tek\-ni\-ska H\"og\-skolan,
+  Stock\-holm.  Sponsored by the Swedish Strategic Research
+  Foundation. Associated with the Computational Vision and Active
+  Perception group, Dept.~for Numerical Analysis and Computer
+  Science.
+
+\item[Jan. 1996--July 1996] Visiting Professor of Computer and
+  Information Science.  GRASP Laboratory, University of Pennsylvania.
+  Doing research on non.linear dynamical systems for control of
+  autonomous sensor-driven agents and intelligent control for
+  multi-agent systems.
+
+\item[Apr. 1992--Aug. 1998] Associate professor specializing in robot
+  and computer vision, Faculty of Technical Sciences, Aalborg
+  University.  Project manager for internationally funded research
+  projects.
+
+\item[June 1992--Sept. 1995] Local manager for the ESPRIT Basic
+  Research project "Vision as Process-II".  Principal investigator
+  wrt.  control of perception.
+
+\item[Jan. 1990--Dec. 1993] Chairman of the National Vision
+  Programmers Workbench (VIPWOB) group, that developed generic
+  application architectures for image analysis and computer vision.
+
+\item[Oct. 1989--April 1992] Research Associate and project head
+  at Laboratory of Image Analysis.  Project: ESPRIT Basic Research
+  Action BR3038-VAP, ``Vision as Process''.  The project was a
+  collaboration with five other European Universities.  Primary topic
+  for AUC work was perceptual control for dynamic vision systems.
+
+\item[July 1988--Jan. 1989] Pre-doctoral Fellow at the Advanced
+  Computing and Integrated Sensor Systems Group, Oak Ridge National
+  Laboratory, Tennessee, USA. Participating in the research programme
+  ``Robotics and Intelligent Systems Program'' (RISP). Primary topics
+  were concurrent computer vision, sensor fusion for mobile robots,
+  and multi resolution methods for dynamic scene analysis. Sponsored
+  by the Danish Technical Research Council, The Danish Research
+  Academy, the Foundation Vision North, and U.S. Department of Energy,
+  under contract DE-AC05-840R214.
+
+\item[July 1987--Sept. 1989] Research assistant (Ph.D. student) sponsored
+  by project ``Computer Vision, - methods for real-time image
+  sequence analysis''. Supported by FTU grant no. 5.17.5.6.06 from the
+  Danish Technical Research Council.
+
+\item[1986--1987] Part time programmer \& Teaching Assistant,
+  Image Analysis Group, Aalborg University, DK.
+
+\item[1980] Trainee as technical assistant, Department of
+  Automation, B\&W/MAN Alpha Diesel A/S, Frederikshavn, DK.
+\end{cvlist}
+
+\begin{cvlist}{Consulting Experience:}
+\item Member of International Advisory Committee, Instituto Robotica e
+  Systemas, Lisboa, Portugal, (1998--2008)
+\item Member of the European Image Understanding Environment Design
+  Committee, February 1994--1997.
+\item Industrial Consultant: 
+  \begin{sublist}
+  \item MAG-IAS Composites (2010--)
+  \item Symbotic (2012--)
+  \item C\&S WholeSale (2010--2011)
+  \item iRobot (2004-2006)
+  \item ABB (2001--2005)
+  \item Totoya Motor Company (2000--2004)
+  \item Scientific Advisor to Evolution Robotics (1998--2012)
+  \item Registered consultant for Apple Computers Inc. (DK, 1989-1995) 
+  \item Development of a system for automatic real time obstacle
+    detection on rail road crossings (DSB, 1988) 
+  \end{sublist}  
+\end{cvlist}
+
+% -------------------------------------------------------------
+
+\noindent{\bf \large IV. TEACHING}
+
+\begin{cvlist}{~}
+
+\item[Ph.D supervision - Ongoing]\ \\
+  \begin{enumerate}
+  \item ``Task modeling for robot automation'', Kimoon Lee, ECE @ GT
+    (2015)
+  \item ``Semantic Modeling of Industrial Environments'', Rahul
+    Swahney, Robotics @ GT (2015)
+  \item ``Outdoor Semantic Mapping'', Carlos Nieto, ECE @ GT (2015)
+  \item ``People Tracking in Complex Environments'', Akansel Cosgun,
+    Robotics @ GT (2014)
+  \item ``Optimization of physical flow problems'', Pushkar Kolhe, CS
+    @ GT (2014)
+  \item ``2 and 3D Model Based Object Recognition'', Changhyun Choi,
+    Robotics @ GT (2013)
+  \item ``Robot Learning by Demonstration'', Jake Huckaby, Robotics @
+    GT (2013)
+  \item ``Cooperation in dynamic, heterogenous multi-agent teams'',
+    Charles Pippin, CS @ GT (2013)
+  \item ``Model Based SLAM'', Alexander Trevor, Robotics @ GT (2013)
+  \end{enumerate}
+
+\item[Ph.D supervision - Completed]\ \\
+  \begin{enumerate}
+  \item ``Life-long Mapping and Exploration with a Mobile Robot'',
+    John Rogers, Robotics @ GT (2012)
+  \item ``HRI for Domestic Robots'', Ja-Young Sung, HCC @ GT (2011)
+    (Co-supervisor w. Beki Grinter)
+  \item ``High Performance Manipulation'', Christian Smith - CS @ KTH
+    (Dec. 2009)
+  \item ``Semantic SLAM'', Elin-Anna Topp CS @ KTH (Lic. Oct 2006, Oct
+    2008)
+  \item ``Deployment of Field Robots in Hazardous Environments'', Carl
+    Lundberg, CS @ KTH (Dec 2007)
+  \item ``Evolutionary Learning for CyberRodents'', Stefan Elfwing.
+    CS @ KTH (Nov 2007)
+  \item ``Information Fusion'', Ronnie Johansson, CS @ KTH (Lic. -
+    Dec. 2003, Apr. 2006)
+  \item ``Large Scale SLAM'', John Folkesson, CS @ KTH (Oct 2005)
+  \item ``Architectures for Autonomous Systems'', Anders Oreb{\"a}ck,    CS @ KTH (Dec. 2004)  
+  \item ``Attention Systems'', Ola Ramstr\"om, CS @ KTH (Lic. Nov
+    2004)
+  \item ``Learning in Behaviour Based Systems'', Philipp Althaus, CS @
+    KTH (November 2003)
+  \item ``Structure from Motion'', Marco Zucchelli, CS @ KTH (June
+    2002)
+  \item ``A Framework for Integration of Processes'', Lars Petersson,
+    CS @ KTH (Mar 2002)
+  \item ``Sensor Fusion for Navigation'', Guido Zunino, CS @
+    KTH(Lic. Feb 2002)
+  \item ``Visual Servoing for Manipulation: Robustness and Integration
+    Issues'', Danica Kragic, CS @ KTH (June 2001)
+  \item ``Approaches to Mobile Robot Localisation in Indoor
+    Environments'', Patric Jensfelt EE @ KTH (June 2001)
+  \item ``Sonar Based World Modelling'', Olle Wijk.  EE @ KTH (April
+    2001)
+  \item ``Towards Human-Robot Interaction'', Kristian Simsarian, CS @
+    KTH (Mar. 2000)
+  \item ``Architectures for Autonomous Mobile Robot Navigation'',
+    Paolo Pirjanian, CE @ AUC (April 1998)
+  \item ``Sensor Planning for Mobile Robot Navigation'', Steen
+    Kristensen.  EE @ AUC (August 1996)
+  \item ``A Framework for Control of a Camera Head'', Claus
+    S. Andersen, EE @ AUC (March 1996)
+  \item ``View Planning for Quantification of Local Geometry'', Claus
+    Madsen, EE @ KTH (Oct. 1994).
+\end{enumerate}
+
+\item[Courses taught:]
+  \begin{enumerate}
+  \item Industrial Robotics (Professional Education Course @ NIST/DLPE -- 2012)
+  \item Software Engineering in Robotics (CS8803 -- 2010)
+  \item Applied Estimation for Robotics (CS8803 -- 2009, 2010, 2012)
+  \item Introduction to Robotics and Perception (CS3630 -- 2008, 2009)
+  \item Mobile Manipulation (CS4632B/8803 -- 2007, 2008)
+  \item Freshman Leap - Section Lead (CS1101 -- 2007, 2009)
+  \item Artificial Intelligence -- An Introduction (undergraduate,  2004-2005 @ KTH)
+  \item Behaviour Based Robotics (Graduate, 1998-2004 @ KTH)
+  \item Autonomous Systems (undergraduate, 2002-2006 @ KTH)
+  \item Urban Robotics (Industrial - Professional Education, 2002 @ KTH)
+  \item Autonomous Robots (Industrial - Professional Education, 2000 @  KTH)
+  \item Mobile Robotics (Graduate, 1996-1999 @ KTH)
+  \item Computer Vision Techniques and Projective Geometry (Graduate, 1994-1996 @ KTH)
+  \item Discrete Mathematics (Graduate, 1993-1996 @ AUC)
+  \item Expert Systems (Graduate, 1993-1996 @ AUC)
+  \item Analysis and Design of Algorithms and Data-structures (Undergraduate, 1995 @ AUC)
+  \item Expert System Technology (Industrial - Professional Education, 1994 @ AUC)
+  \item Biological Vision (Graduate, 1993 @ AUC)
+  \item Structured programming (Undergraduate, 1992 @ AUC)
+  \item C-programming (Undergraduate, 1991 @ AUC)
+  \item Motion Analysis (Graduate, 1990 @ AUC)
+ \end{enumerate}
+
+\item[Other Teaching Activities]
+  \begin{itemize}
+  \item Supervised or Co-supervised many ($>$60) M.Sc. level projects,
+    many basic and advanced B.Sc. projects ($>30$) in Electronic
+    Engineering, Computer Engineering and Computer Science.
+    
+  \item Chairman -- Engineering of Computer Based Systems education at
+    KTH (adopted- Spring 2000).
+    
+  \item Chairman of committee for specification of new B.Sc. Electrical
+    and Electronic Engineering curriculum at the Faculty of Science and
+    Technology, Aalborg University.  The new curriculum was implemented
+    from July 1996.
+    
+  \item Designed and implemented a B.Sc. specialization in E.E.
+    entitled ``Industrial Computer Engineering'', Aalborg University, in
+    1994.  The specialization was successfully implemented on a trial
+    basis (June 1994--July 1996).
+    
+  \item Coordinator of E.E. Specialization in Computer Engineering (June
+    1993--December 1995)
+\end{itemize}
+\end{cvlist}
+
+% -------------------------------------------------------------
+
+\noindent{\bf \large V. SCHOLARLY ACCOMPLISHMENTS}
+
+\begin{cvlist}{Publications}
+\item[Books]
+  \begin{btSect}{books}
+    % \section{Books}
+    \btPrintAll
+  \end{btSect}
+  
+\item[Book Chapters]
+  \begin{btSect}{book-chapters}
+    % \section{Book chapters}
+    \btPrintAll
+  \end{btSect}
+  
+\item[Edited Journal Issues]
+  \begin{btSect}{journal-issues}
+    % \section{Edited Journal Issues}
+    \btPrintAll
+  \end{btSect}
+  
+\item[Refereed Jour. Papers]
+  \begin{btSect}{articles}
+    % \section{Refereed Journal Papers}
+    \btPrintAll
+  \end{btSect}
+  
+\item[Refereed Conf. Papers]
+  \begin{btSect}{conf-papers}
+    % \section{Refereed Conference Papers}
+    \btPrintAll
+  \end{btSect}
+  
+\item[Theses]
+  \begin{btSect}{theses}
+    % \section{\bf Theses}
+    \btPrintAll
+  \end{btSect}
+  
+\end{cvlist}
+
+\begin{cvlist}{Keynote / Plenary Presentations}
+\item
+  \begin{enumerate}
+  \item ``Robust multi-robot mapping and exploration'', SPIE DSS12
+    Micro-Nanotechnology Sensors, Systems, and Applications
+    Conference, Baltimore, April 2013.
+  \item ``Examples of next generation robot systems'', 5th Annual IEEE
+    International Conference on Technologies for Practical Robot
+    Applications (TePRA), Boston, April 2013.
+  \item ``The impact of robotics on economic growth'',
+    Automate/ProMAT, Chicago, IL, Jan 2013.
+  \item ``A perspective on robotics'', IROS - International Research
+    Panel, Oct 2012.
+  \item ``Robotics and autonomous cars'', AUVSI Driverless cars
+    symposium, Detroit, June 2012
+  \item ``Setting an agenda for robotics'', Dutch Government
+    Conference, Amsterdam, June 2012.
+  \item ``A vision for robotics'', USC Futures of Robotics Symposium,
+    Los Angeles, CA.  Dec. 2011
+  \item ``A vision for the future of robotics", Intl. Symposium on
+    Robot Systems, San Francisco, CA, Oct 2011
+  \item ``A Roadmap for Robotics'', National Science Foundation,
+    Washington DC, June 2010.
+  \item ``A Vision for US Robotics'', Booz Allen Hamilton -
+    Distinguished Lecture, Washington DC, April 2010.
+  \item ``Cognitive systems and a vision for the road ahead'', IRT
+    Symposium, Tokyo, May 2010.
+  \item ``A Robotics Roadmap for the Future'', AUVSI Annual Meeting,
+    Huntsville, AL, Mar 2010.
+  \item ``A US Roadmap for Robotics'', The Netherlands Office for
+    Science and Technology Annual Conference, The Hague, Nov 2009.
+  \item ``Leonardo Da Vinci - Machines \& Robots'', High Museum of
+    Modern Art, Atlanta, GA, June 11, 2009
+  \item ``Robotics Roadmap: Internet to Robotics'', US Congressional
+    Caucus, Washington, DC, May 23, 2009.
+  \item ``Human Augmented Mapping'', Franklin Symposium to honor
+    Dr. Ruzena Bajcsy, University of Pennsylvania, Philadelphia,
+    PA. April 2009.
+  \item ``From Internet to Robotics'', Schunk Expert Days, Stuttgart,
+    Germany, February, 2009.
+  \item ``Mobile Manipulation Systems'', {\em Intl. Conf on Control
+    and Automation Systems}, Seoul, Korea, October 2008.
+  \item ``Evaluation of Ground Robots for Military Use'', {\em
+    European Land Robot Trial (ELROB)}, Hammelburg, DE, July 2008.
+  \item ``Deployment of Robots for Economic Growth'', {\em
+    International Conference on Advanced Robotics}, Jeju Island,
+    Korea, August 2007.
+  \item ``Vision for Cognitive Systems'', {\em Scandinavian Conference
+    on Image Analysis}, Aalborg, DK, June 2007.
+  \item ``Industrial Applications of Robotics'', {\em RoboBusiness
+    07}, Boston, MA, May 2007
+  \item ``Personal Robots'', {\em HRI Pioneers}, Washington, DC, March
+    2007
+  \item ``Semantic Mapping'', {\em Australian Robotics Conference},
+    December 2006.
+  \item ``Cognitive Systems for Cognitive Assistance'', {\em
+    Australian Artificial Intelligence Conference}, December 2006.
+  \item ``Evaluation of Robots for Human-Robot Interaction'', {\em
+    Performance Metrics for Intelligent Systems Workshop}, NIST,
+    Gaithersburg, August 2006
+  \item ``Robot Vision - Vision or Robotics?'', {\em British Machine
+    Vision Conference}, London, UK, June 2006.
+  \item ``A European Perspective on Robotics'', {\em Intl. Symposium
+    on Robotics, Tokyo}, Dec. 2005.
+  \item ``Personal Robotics'', {\em Artificial Intelligence and
+    Synthesis of Behaviour (AISB)}, Hertsfordshire, UK, April 2005
+  \item ``A Game Theoretical Approach to Information Fusion'', {\em
+    Fusion-04}, Stockholm, June 2004.
+  \item ``Domestic Robot Systems'', {\em Mediterranean Control
+    Conference}, Lisboa, PT, 2002.
+  \item ``Active Vision from Multiple Cues'', {\em Biologically
+    Motivated Computer Vision}, Seoul, Korea, May 2000.
+  \item ``Intelligent Robot Systems'', {\em Intl. Joint Conf. on
+    Artificial Intelligence}, Stockholm, August 1999.
+  \item ``Computer Vision Systems'', {\em European Conference on
+    Artificial Intelligence}, Amsterdam, August 1994.
+  \end{enumerate}
+\end{cvlist}
+
+\begin{cvlist}{Patents and Invention Disclosures}
+\item Mobile Robot, P. Jensfelt \& H.I. Christensen, World Patent
+  (EP1804149).
+\item F{\"o}rfarande f{\"o}r en anordning p{\aa} hjul (Eng: Methods
+  for a thing on wheels), G. Zunino \& H.I. Christensen, Swedish
+  Patent (SE0200197)
+\item Position Estimation Method, H.I. Christensen \& G. Zunino, World
+  patent (WO03062937)
+\item FoD Detection using Laser Scanning, A. Trevor \&
+  H. I. Christensen, GT Invention 5850 / Prov. Patent 61/694,361
+\item Verification of as Built Structures, A. Trevor \&
+  H.I. Christensen, GT Invention 5851 / Prov. Patent 61/694,378
+\item CAD Simplification for Visual Servoing. C. Choi \&
+  H.I. Christensen, GT Invention 5162
+\item Mapping with Virtual Measurements, J. G. Rogers, A. Trevor and
+  H. I. Christensen, GT Invention 5160
+\end{cvlist}
+
+% -------------------------------------------------------------
+
+\noindent{\bf \large VI. SERVICE}
+
+\begin{cvlist}{Professional Service}%
+\item {\bf Academic Community Service}
+  \begin{itemize}
+  \item Founder and Coordinator of US Robotics Virtual Organization
+    \cftdotfill{\cftdotsep} 2012--
+  \item Member of College Industry Council on Material Handling\\
+    Education (CICHME) w. Material Handling Industry of America
+    \cftdotfill{\cftdotsep} 2012--2015
+  \item Member of Board - Danish Foundation for Strategic Research -\\
+    Strategic Growth Technologies \cftdotfill{\cftdotsep} 2011-2013
+  \item Chair of CCC roadmapping committee for formulation of \\
+    a national strategy for robotics \cftdotfill{\cftdotsep}
+    2008--2009
+  \item Member of academic board for KTH \cftdotfill{\cftdotsep}
+    2003--2007
+  \item Member of the Board of Trustees the Swedish Foundation for\\
+    International Cooperation in Research and Higher Education --\\
+    STINT, Appointed by the Swedish Government.
+    \cftdotfill{\cftdotsep} 2002-2007
+  \item Served on Ph.D committees in Norway, Sweden, U.S.A., Portugal,
+    France, Belgium, Canada, Australia, Netherlands, Germany Spain,
+    U.K. and Denmark for a number of candidates
+  \end{itemize}
+
+\item {\bf Involvement with professional organizations}
+  \begin{itemize}
+  \item Robot Industry Association (RIA) - Board Member at Large (2013-2015)
+  \item IEEE Senior Member (2008-), Member (1988--2007), Computer
+    Society, and Robotics and Automation Society.
+    \begin{itemize}
+    \item RAS TAB Member at Large \cftdotfill{\cftdotsep} 2008--2009
+    \item RAS Award Nominations Co-Chair \cftdotfill{\cftdotsep} 2008,
+      2009
+    \item RAS STCP Member \cftdotfill{\cftdotsep} 2006--2009
+    \end{itemize}
+  \item Founding chairman for the Danish OS-9 User Group
+    \cftdotfill{\cftdotsep} 1992--1992\\ Board member
+    \cftdotfill{\cftdotsep} 1994--1996
+  \item Danish Chapter of the International Association of
+    Pattern\\ Recognition, Secretary \cftdotfill{\cftdotsep}
+    1989--1994
+  \item Founding chairman of the Danish Silicon Graphics \\Users Group
+    \cftdotfill{\cftdotsep} 1993--199
+  \item Co-editor of UN/IFR World Robotics --- Section on
+    Service\\ Robotics (w. Martin H\"agele \& Jan Karlsson)
+    \cftdotfill{\cftdotsep} 2002-2003
+  \end{itemize}
+
+\item {\bf Campus Service}
+\begin{itemize}
+  \item Member of External Faculty Board, Georgia Tech Manufacturing\\
+    Institute \cftdotfill{\cftdotsep} 2012--2013
+  \item Member of Interrim Steering Committee for Institute for Big \\Data
+   ~ \cftdotfill{\cftdotsep} 2012--2013
+  \item Chair Search Committee for Chair of School of Computer\\
+    Science, CoC, \cftdotfill{\cftdotsep} 2011--2012
+  \item HUSCO-Ramierez Search Committee, School of Mechanical\\
+    Engineering, Spring \cftdotfill{\cftdotsep} 2011-2013
+  \item Co-chair of IC Awards Committee, \cftdotfill{\cftdotsep} 2012
+  \item Member of IC Awards Committee, \cftdotfill{\cftdotsep} 2011
+  \item Member of CoC RPT Committee, \cftdotfill{\cftdotsep} 2009-2013
+  \item Member of Selection Committee for Dean of College of
+    Computing, \cftdotfill{\cftdotsep} 2009-2010
+  \item Member of School Chair Evaluation Committee - Interactive
+    Computing, \cftdotfill{\cftdotsep} 2009
+  \item Member of Selection Committee for Senior Vice Provost for \\
+    Research and Innovation (SVPRI), \cftdotfill{\cftdotsep} 2007
+\end{itemize}
+
+\item {\bf Reviews for conferences and journals}
+  \begin{itemize}
+  \item Performed journal reviews for IEEE Trans.  on Patt.  Anal.
+    Mach.  Intell., Pattern Recognition, Pattern Recognition Letters,
+    Intl.  Jour.  of Patt.  Recog.  and Artificial Intelligence,
+    Artificial Intelligence Journal, Robotics and Autonomous Systems,
+    Medical and Biological Engineering, Image and Vision Computing,
+    Computer Vision and Image Understanding, IEE Proceedings: Signals,
+    Speech and Vision, IEEE Signal Processing, IEEE Robotics and
+    Automation, Machine Vision and Applications, IJCV, and Artificial
+    Intelligence.
+  \item Intl. Conf. on Patt. Rec., Technical Program Committee,
+    Istanbul, August, 2010.
+  \item Robotics Science and Systems, Associate Editor, Zaragosa, Jun
+    2010.
+  \item Intl. Conf on Robotics and Automation, Associate Editor, Kobe,
+    JP, May 2009
+  \item BioRobotics 2006, PC member, Pisa, February 2006. 
+  \item International Symposium on Robot Systems (IROS), PC-member, Sendai,
+    September 2004.
+  \item Intl Symposium on Robotics, member of programme committee,
+    Paris, June 2004. 
+  \item Information Fusion 2004, PC-member, Stockholm, June 2004. 
+  \item Intl. Conf on Robotics and Automation, member of
+    prog. committee, Sendai, May 2004. 
+  \item Intl Conf on Robotics and Automation, Member of Programme
+    Committee, Taiwan, Sept. 2003.
+  \item Multi-Sensory Fusion, MFI-2003, Member of Programme Committee,
+    NINII, Tokyo, July 29-August 1, 2003.
+  \item International Conference on Advanced Robotics, Member of
+    Programme Committee, Coimbra, June 2003.
+    \\item Mediterranean Control and Automation Conference, Member of
+    Programme Committee, Lisboa, July 2002
+  \item European Workshop on Robot Learning, Member of programme
+    committee, Prague, September 2001.
+  \item IARP Workshop on Technical Challenge for Dependable Robots in
+    Human Environments, Member of Programme Committee, Seoul, Korea, May
+    2001.
+  \item Scandinavian Conference on Artificial Intelligence, Member of
+    PC, Odense, Denmark, February, 2001.
+  \item International Conference on Robot Systems (IROS), Member of
+    Programme Committee,  Tokyo, Japan, October 2000. 
+  \item International Conference on Pattern Recognition, Member of
+    Programme Committee, Barcelona, August 2000.
+  \item Intelligent Autonomous Systems -- 6, Member of
+    International Advisory Board, Venice, July 2000.
+  \item 6th European Conference of Computer Vision, Member of Programme
+    Committee, Dublin, June 2000.
+  \item International Joint Conference of Artificial Intelligence,
+    Member of Programme Committee, August 1999.
+  \item European Conference of Artificial Intelligence, Member of
+    Programme Committee, Brighton (UK), 23-28 August 1998
+  \item Empirical Evaluation of Methods in Computer Vision, IEEE
+    Workshop, Member of Programme Committee, Santa Barbara, Ca, June
+    1998.
+  \item 5th European Conference on Computer Vision, Member of Programme
+    Committee, Freiburg, June 1998.
+  \item Sensory Fusion and Decentralized Control in Autonomous Robotic
+    Systems, SPIE Conference 3209, Pittsburgh, PA, Member of Programme
+    Committee, October 1997.
+  \item 5th International Robotics Symposium (IROS), Member of Programme
+    Committee, Japan, August 1996.
+  \item 14th Intl Conf on Pattern Recognition, Member of Program
+    Committee, Vienna, August 1996.
+  \item 4th Symposium on Intelligent Robotics Systems, member of
+    programme committee, Lisbon, Portugal, July 1996.
+  \item 4th European Conference on Computer Vision, Member of Programme
+    Committee, Cambridge, May 1996.
+  \item IEEE Workshop on Computer Vision. Member of Program Committee,
+    Miami, December 1995.
+  \item Symposium on Intelligent Robotics Systems '95: Member of
+    Programme Committee, Pisa, July 1995.
+  \item 9th Scandinavian Conference on Image Analysis: Danish Member of
+    Program Committee, Uppsala, May 1995.
+  \item IEEE Applications of Computer Vision, Member of program
+    committee, Sarasota, Fl., December 1994.
+  \item Intelligent Robotics Systems '94: Member of Program Committee,
+    Grenoble, July 1994.
+  \item Intelligent Robotic Systems '93: Member of Program committee,
+    Zakopane, July 1993.
+  \item SPIE Application of AI XI: Machine Vision and Robotics, Member
+    of Programme Committee and Session Chair. Orlando, April 1993.
+\end{itemize}
+
+\item {\bf Professional reviews}
+  \begin{itemize}
+  \item Project and lecture reviewer at Faculty of Engr., University
+    of Trondheim, Norway, 1994--1997.
+  \item Served on professional appointment committees in Denmark,
+    Spain, Sweden, Norway, United Kingdom, Belgium, Italy, France,
+    Germany, Switzerland, South Korea, and U.S.A.
+  \end{itemize}
+\item {\bf Reviews for funding agencies}
+ \begin{itemize}
+ \item EU Cognitive Systems, IP Reviewer, \cftdotfill{\cftdotsep}, 2013--
+ \item NSF Expedition Panel (phase II), \cftdotfill{\cftdotsep},  Spring 2012
+ \item SSF Successful Research Leaders - Sweden, \cftdotfill{\cftdotsep} Spring 2011
+ \item US Army Basic Research Review Panel, \cftdotfill{\cftdotsep} July 2010
+ \item SSF Future Research Leaders - Sweden, \cftdotfill{\cftdotsep}  June 2010
+ \item High Technology Foundation - Denmark, \cftdotfill{\cftdotsep} May 2010
+ \item NSF ad-hoc project reviews \cftdotfill{\cftdotsep}, 2009--
+ \item NSF IGERT Panel, \cftdotfill{\cftdotsep} May/June 2009. 
+ \item NSF Computer Infrastructure Grant Panel, \cftdotfill{\cftdotsep}  Nov. 2008
+ \item Army Research Laboratory, Basic Research Review,
+   \cftdotfill{\cftdotsep}  Spring 2008
+ \item Adviser/Expert to EU DG-III Long Terms Research Office in the\\
+   areas of ``robotics'' and ``computational vision''
+   \cftdotfill{\cftdotsep}  1995--2006
+ \item Scientific Advisor to the Swedish Foundation for International\\
+   Cooperation in Research and Higher Education,  STINT
+   \cftdotfill{\cftdotsep}  2000--2002
+ \item Member of the Danish Reviewer Panel for Computer Science,\\
+   Ministry of Education, \cftdotfill{\cftdotsep}  1995--1998, 2003--2005.
+ \item Proposal reviewer for ESPRIT DG-XIII Basic Research office for\\
+   the ESPRIT III and IV call for proposals and DG-III Long Term\\
+   Research Office \cftdotfill{\cftdotsep}  1999-2004.
+ \item Member of SSF Japan committee for Swedish - Japanese\\
+   Collaboration on Interdisciplinary Research \cftdotfill{\cftdotsep}
+   2001--2002
+ \item Member of the Danish Reviewer Panel for Electronic Engr.,\\
+   Ministry of Education, \cftdotfill{\cftdotsep}  1995--1998.
+ \item Action reviewer for ESPRIT DG-III Basic Research, Long Term
+   Research,\\ and Essential Technologies offices for several EU
+   Projects. \cftdotfill{\cftdotsep} 1993--1998
+ \item Member of International Review Panel: ``Embedded Systems'' for\\
+   the Swedish National Board for Industrial and Technical Development,\\
+   NUTEK, \cftdotfill{\cftdotsep} May 1996.
+ \end{itemize}
+\end{cvlist}
+
+\begin{cvlist} {\bf Editorial Leadership}
+  \item Advisor board for {\em IEEE Transactions on Automation
+    Science\\ and Engineering (T-ASE)} \cftdotfill{\cftdotsep} 2013--
+  \item Senior Advisory Board {\em Journal of Human-Robot Interaction}
+    \cftdotfill{\cftdotsep} 2012--
+  \item Co-Editor in Chief of {\em Trends and Foundations in
+    Robotics}, \cftdotfill{\cftdotsep} 2009--
+  \item Editorial Board of {\em Advanced in Interaction
+    Studies},\cftdotfill{\cftdotsep} 2010--
+  \item Associate Editor of {\em Image and Vision
+    Computing},\cftdotfill{\cftdotsep} 2009--
+  \item Associate Editor of {\em Service Robotics},
+    \cftdotfill{\cftdotsep} 2005--2010
+  \item Associate Editor of {\em Autonomous Robots},
+    \cftdotfill{\cftdotsep} 2005-2009
+  \item Associate Editor of {\em International Journal of Robotics
+    Research},\cftdotfill{\cftdotsep} 2002--
+  \item Associate Editor of ``Springer Tracts in Advanced
+    Robotics'',\cftdotfill{\cftdotsep} 2001--
+  \item Associate Editor of MIT Press series on ``Intelligent Robotics
+    and Autonomous\\ Agents'',\cftdotfill{\cftdotsep} 1997--
+  \item Associate Editor of AAAI {\em AI
+    Magazine}\cftdotfill{\cftdotsep} 2000--2007
+  \item Associate Editor of {\em Journal of Pattern Recognition and
+    Artificial Intelligence},\\ WSP \cftdotfill{\cftdotsep} 1997--2005
+  \item Associate Editor of {\em Journal of Machine Vision and
+    Applications}, \\Springer Verlag \cftdotfill{\cftdotsep}
+    1996--2004
+  \item Associate Editor of IEEE {\em Transactions on Pattern Analysis
+    and Machine\\ Intelligence} \cftdotfill{\cftdotsep} 1999--2003
+  \item Associate Editor {\em Robotics and Autonomous Systems}
+    journal, Elsevier, \\Competition Corner, \cftdotfill{\cftdotsep}
+    1999--2002
+\end{cvlist} 
+
+\begin{cvlist}{Leadership in organisation of meetings:}
+\item IDEAS - Surgical WS, Harvard Medical School, Co-organizer,
+  \cftdotfill{\cftdotsep} Apr. 2013
+\item Schunk Expert Days, Co-Chair, Lauffen, DE,
+  \cftdotfill{\cftdotsep} Feb 2013
+\item IROS-2012, Senior Program Committee,
+  Portugal,\cftdotfill{\cftdotsep} Oct. 2012
+\item IAS-12, Regional Program Chair, Seoul, Korea,
+  \cftdotfill{\cftdotsep} Aug. 2012
+\item ICRA-2012, General Co-Chair, \cftdotfill{\cftdotsep} May 2012
+\item IDEAS Symposium, Co-organizer, Harvard Medical School,
+  \cftdotfill{\cftdotsep} April 2012
+\item IROS-2011, Special Symposium Committee, \cftdotfill{\cftdotsep}
+  Oct. 2011
+\item ISRR-2011, General Chair, Flagstaff, AZ, \cftdotfill{\cftdotsep}
+  Aug. 2011
+\item Ro-Man 2011, General Chair, Atlanta, GA.
+  \cftdotfill{\cftdotsep} Aug. 2011
+\item Schunk Expert Days, Co-Chair, Lauffen, DE,
+  \cftdotfill{\cftdotsep} Feb 2011
+\item IAS-11, Program Chair, Ottawa, Canada, \cftdotfill{\cftdotsep}
+  Aug. 2010
+\item Schunk Expert Days, Co-Chair, Lauffen, DE,
+  \cftdotfill{\cftdotsep} Feb 2010
+\item Ro-Man 2009, PC - Co-Chair (Americas), Toyama - JP,
+  \cftdotfill{\cftdotsep} Sep.  2009.
+\item IROS-2009, US Program Chair, Lucerne, CH,
+  \cftdotfill{\cftdotsep} Sep. 2009.
+\item Schunk Expert Days, Co-Chair, Lauffen, DE,
+  \cftdotfill{\cftdotsep} Feb 2009
+\item HRI - 2008, Senior Programme Committee, Amsterdam,
+  \cftdotfill{\cftdotsep} April 2008,
+\item IROS, US Program Chair, Nagasaki, \cftdotfill{\cftdotsep}
+  Nov. 2007.
+\item ICRA-2007, Programme Co-chair -- Europe, Rome,
+  \cftdotfill{\cftdotsep} April 2007.
+\item HRI 2007, Senior Program Committee, Washington,
+  \cftdotfill{\cftdotsep} March 2007.
+\item HRI 2006, Senior Programme Committee, Utah,
+  \cftdotfill{\cftdotsep} March 2006,
+\item 19th Intl Joint Conf on Artificial Intelligence,
+  Edinburgh,\\ Senior Program Committee, \cftdotfill{\cftdotsep}
+  Aug. 2005.
+\item ICRA-2005, European Programme Co-Chair, Spain,
+  \cftdotfill{\cftdotsep} April 2005.
+\item Field deployable robots, NATO IST Workshop, Co-chair, Bonn,
+  \cftdotfill{\cftdotsep} Sept 2004
+\item RAS-IFRR Summer school on ``Human-Robot Interaction'',
+  Co-organiser, \\Volterra, \cftdotfill{\cftdotsep} July 2004.
+\item Robotics demining, Brussels, co-organiser, Belgium,
+  \cftdotfill{\cftdotsep} June 2004.
+\item Wallenberg Symp. on Sensing and Feeling, Co-organiser,
+  \cftdotfill{\cftdotsep} May 2004.
+\item Educational Robotics, Co-organiser, ICRA-04 Workshop, New
+  Orleans, \cftdotfill{\cftdotsep} April 2004.
+\item Challenges in Cognitive Vision, NIPS workshop, Co-organiser,
+  \cftdotfill{\cftdotsep} Dec. 2003
+\item Cognitive Vision Systems, Dagstuhl Seminar, Co-organiser,
+  \cftdotfill{\cftdotsep} Oct. 2003
+\item Nobel Symposium on Neural Control of Skilled Hand
+  Movements:\\ Cognitive and Computational Aspects, Stockholm,
+  Co-organiser, \cftdotfill{\cftdotsep} June 2003.
+\item Intl Conference on Vision Systems, Steering Committee, Graz,
+  \cftdotfill{\cftdotsep} Mar. 2003.
+\item WS on Control Problems in Robotics and Automation, \\General
+  Chair, Las Vegas, \cftdotfill{\cftdotsep}Dec. 2002.
+\item IROS-2002, European/African Programme Chair, Lausanne,
+  \cftdotfill{\cftdotsep} Oct. 2002.
+\item International Symposium on Robotics, Service Robotics Chair,
+  Stockholm, \cftdotfill{\cftdotsep} Oct. 2002.
+\item WS on Robot Dependability, IARP, Organising Committee,
+  \cftdotfill{\cftdotsep} Oct. 2002.
+\item Wallenberg Symp. on Learning and Memory: Brains to Robots,\\
+  Member of Organisation Committee, Stanford, \cftdotfill{\cftdotsep} Oct. 2002.
+\item Summerschool on ``Simultaneous Localisation and Mapping'',
+  \\Organiser, Stockholm, \cftdotfill{\cftdotsep}Aug. 2002.
+\item ECAI, Vision-Robotics Chair, Toulouse, \cftdotfill{\cftdotsep}
+  Aug. 2002.
+\item ICPR, Computer Vision Co-Chair,\\ Quebec City,
+  \cftdotfill{\cftdotsep} Aug 2002.
+\item Tutorial on ``Mobile Robot Programming Paradigms'',
+  Co-organiser\\ (with Greg Hager, JHU), ICRA-2002, Washington,
+  \cftdotfill{\cftdotsep}May 2002.
+\item 3rd Ws. on Empirical Eval. Methods in Comp. Vis., Co-Chair,
+  Maui, \cftdotfill{\cftdotsep} Dec. 2001.
+\item WS on Computer Vision Systems, Co-Chair, Victoria,
+  Canada,\cftdotfill{\cftdotsep} July 2001
+\item Modeling of Sensor Based Intelligent Robot Systems,\\
+  Co-organizer, Dagstuhl, Wadern, \cftdotfill{\cftdotsep} Oct. 2000.
+\item 1st Swedish Autonomous Robotics Symposium, Co-chair, \"Orebro,
+  \cftdotfill{\cftdotsep}Oct. 2000.
+\item ECAI, Area Chair (Robotics and Vision), Berlin,
+  \cftdotfill{\cftdotsep} Aug. 2000.
+\item 2nd International WS on Perf Char., European Programme Chair,
+  Dublin,\cftdotfill{\cftdotsep} June 2000.
+\item 1st ICVS, Las Palmas, Programme Chair, \cftdotfill{\cftdotsep}
+  Jan. 1999.
+\item Environmental Modelling for Mobile Robotics, Schloss Dagstuhl
+  Workshop,\\ Weidern, Co-organiser, \cftdotfill{\cftdotsep}
+  Sep. 1998.
+\item Knowledge Based Methods for Computer Vision, Schloss Dagstuhl
+  Workshop, Weidern,\\ Co-organiser, \cftdotfill{\cftdotsep}
+  Dec. 1997.
+\item 5th SIRS, Programme Chair, Stockholm, \cftdotfill{\cftdotsep}
+  July 1997.
+\item Performance Characteristics of Vision Algorithms, Co-chair
+  programme committee\\ with Prof. W. F\"orstner, Cambridge, UK,
+  \cftdotfill{\cftdotsep} April 1996.
+\item Active Vision Hardware Workshop, Co-Organiser w. Prof. J.L.
+  Crowley, \\Grenoble, France,\cftdotfill{\cftdotsep} Feb. 1995.
+\item Nordic Summer School on Active Vision and Geometric Modelling,
+  \\ Organiser. Rebild Bakker, Aalborg, \cftdotfill{\cftdotsep}
+  Aug. 1992.
+\item SPIE Applications of Artificial Intelligence X: Machine Vision
+  and Robotics, \\ Programme Committee, Organiser and chairman of
+  session on\\ "How to Design a Robot Head". Orlando,
+  \cftdotfill{\cftdotsep} April 1992.
+\item 7th Scandinavian Conference on Image Analysis. \\Chair of Local
+  Arrangements. Aalborg, \cftdotfill{\cftdotsep} Aug. 13--16, 1991.
+\item Topical Workshop on Symbolic Reasoning in Scene Interpretation,
+  Co-organiser, \\LIFIA, France.  ESPRIT Vision Workshop Week. Crete,
+  \cftdotfill{\cftdotsep} Sep. 1990.
+\item Topical Workshop on Perceptual Control, Co-organiser, Aalborg
+  University. \\ ESPRIT Vision Workshop Week.  Crete,
+  \cftdotfill{\cftdotsep} Sep. 1990.
+\item 4th Aalborg Symposium on Vision: Concurrent Computer Vision '89,
+  Co-organiser, \\ Institute of Electronic Systems, Aalborg,
+  \cftdotfill{\cftdotsep} Jan. 24--26, 1989.
+\item 3rd Aalborg Symposium on Vision: Hybrid Methods '87,
+  Co-organiser, \\ Institute of Electronic Systems, Aalborg,
+  \cftdotfill{\cftdotsep} Dec. 10--11, 1987.
+\item 2nd Aalborg Symposium on Vision: Robot Vision '86, Co-organiser,
+  \\ Institute of Electronic Systems, Aalborg, \cftdotfill{\cftdotsep}
+  Dec. 15--17, 1986.
+\end{cvlist}
+
+\begin{cvlist}{Research Grants:}  
+\item Micro Autonomous Systems Technology - Army Research Laboratory
+  CTA: Autonomy (2013-2016) - PI for GT (\$1.5M). Lead UPENN (Total \$20M) % $2M (GT), 10m in total 
+\item PSA: Robotics for Automotive Assembly (\$910k, 2013-2015), PI
+\item BMW; Support on the Shop-Floor Using Modern Robots (\$750k, 2012-2015), Co-PI
+\item NIST: Robots for Kitting (\$120k. 2012-2014). PI
+\item NSF: Robotics Virtual Organization (\$100k, 2011-2013), PI
+\item Boeing: Wing Assembly (\$1.6M, 2011-2014), PI
+\item NSF: Motion Grammer Laboratory - Equipment Grant (\$330k, 2011-2013), Co-PI
+\item Boeing: UGV Navigation for OmniMove (\$146k, 2010), PI
+\item MSR: Computer Vision Library for RDS (\$25k, 2010), PI
+\item MSR: Software Engineering for Robotics (\$75k, 2010), PI
+\item NIST: Mixed Palletizing (\$170k, 2009-2012), PI
+\item KOTEF: Cognitive Consumer Robots (\$2.4M, 2009-2011), GT-PI
+\item NSF: Young Researchers Workshop - 2009 (\$24k), PI
+\item NRL: Disruptive Technologies for General Infra-structure  (\$25k, 2008-2009), PI
+\item GM: Factory CoWorker - (\$400k/yr, 2008-2010), Co-PI
+\item Boeing: Factory of the Future - Robotics (\$700k, 2008-2014), PI
+\item KUKA: UGV Survey, KUKA Roboter, Germany, Oct. 2008 (\$6k)  PI% 18k$
+\item Micro Autonomous Systems Technology - Army Research Laboratory
+  CTA: Autonomy (2008-2013) - Co-PI for GT (\$4M). Lead UPENN (Total \$33M) % $2M (GT), 10m in total 
+\item CCC: From Internet to Robotics: The Next Transformational Technology (\$200k, 2008-2009), PI % $200k
+\item KUKA: Unlayering, KUKA Roboter, Germany, Jul. 2008 (\$18k) % 18k$
+\item KUKA: Exploratory research on diagnostics and navigation, KUKA Roboter, Germany, Spring 2008 (\$55k)% 55k$
+\item CEC: CoSy - Cognitive Systems for Cognitive Assistants, IP
+  Project, Coordinator (11M EUR, 2004-2008)
+\item VR: Multi-Modal Mapping (1.7M SEK, 2006-2008), PI.% 1.7 MSEK
+\item CEC: Neurobotics -- Neuroscience/Robotics, IP Project,
+  Co-investigator (6.4 M EUR, 2004-2007)% 6.4 MEURO
+\item CEC: Cognitive Companion -- Cogniron, IP Project,
+  Co-investigator (6.8M EUR, 2004-2007) % 6.8 MEURO
+\item CEC: EURON-II -- EU Network of excellence within ``beyond
+  robotics''  -- Coordinator (5.8M EUR, 2004-2007) % 5.8 MEuro
+\item SSF, Autonomous Systems, Principal Investigator -- Director  (7
+  M SEK, 2003--2006) % 20 MSEK 
+\item FMV: Intelligent Unmanned Vehicles, Technology Demonstrator,
+  Coordinator, (8M SEK, 2001-6). % 8000 KSEK
+\item FMV: UGV control using the universal control station, 2005 (200k
+  SEK) %200 kSEK
+\item CEC: Cognitive AI Enabled Computer Vision network, Research
+  Co-ordinator, (3.4 M EUR, 2002-2005). % 3.4 MEURO
+\item STINT: Institutional Grant for KTH-ANU Collaboration in the area
+  of Collaborative Robotics, Co-chair (2M SEK, 2001-2005).% 2000 KSEK
+\item CEC: CogVis -- ``Cognitive Vision'', IST Research Project
+  (IST-2000-29375), Coordinator, (4 M EUR, 2001--2004).% 3950 KEuro
+\item FOI: ``Information Fusion'', academic co-chair,  (1.8M SEK, 2001-2004).% 1800 KSEK
+\item CEC: OROCOS -- ``Open Robot Controller Software'',
+  (IST-2000-31064), Co-investigator (60k EUR, 2001-2003).% 60 kEuro
+\item CEC: EURON -- European Robotics Research Network
+  (IST-2000-26048), Coordinator, (1.035M EUR, 2000-2003)% 1035 KEuro
+\item CEC: PCCV -- ``Performance Characterisation of Computer
+  Vision'',  co-principal investigator, (180k EUR, 2000-2003)% 180 kECU
+\item NUTEK Complex Technical Systems ``Sensory Fusion for Robot
+  Navigation'', (1.8M SEK, 1999-2001)% 1.8 MSEK
+\item NUTEK Complex Technical Systems ``Architectures for Mobile
+  Robotics'', (2.2M SEK, 1999--2001)% 2.2 MSEK
+\item Foundation for Strategic Research: Centre for Autonomous Systems
+  (63M SEK, 1997-2001). Scientific Director.%  73 MSEK
+\item CEC: TMR network ``CAMERA'', co-principal investigator  (104k
+  EUR, 1998-2001)% 104 kECU
+\item NUTEK Exploratory Grant ``Intelligent Crane Control'',
+  co-principal investigator, (450 k SEK, 1999-2000)% 450 KSEK
+\item NUTEK Exploratory Programme Grant ``Intelligent Outdoor
+  Vehicles'', (200k SEK, 1999)% 200 kSEK
+\item STINT Visiting Professor Grant (for Prof.\ Ronald Arkin)  (755k
+  SEK, 1997--1998).% 755 kSEK
+\item CEC: TMR Network on ``Vision for Robot Guidance'', Co-proposer
+  and local manager (1.4M EUR, 1996--1997).% 120 kECU / Total 1.4 MECU
+\item CEC: TMR Network on ``Sensory Mobile Autonomous Robot Technology
+  II'', Co-proposer and local manager.  (2.3M EUR, 1996--1997).% 200
+  % kECU / TOTAL 2.3 MECU 
+\item Danish Technical Research Council: ``Reconstruction and
+  Visualisation of 3D Structures based on In-vivo Image Analysis'',
+  Principal Investigator (1.014M DKK, 1995--1998).% 1014 KDKK
+\item EEC: European Network of Excellence in Computer Vision,
+  Co-proposer and Principal Investigator (2M EUR, 1994--1998).% 2MECU
+\item EEC: HCM Network on "RETINA: Active Vision", Co-proposer and
+  local manager.  (3M EUR, 1994--1997).% 170 kECU-AUC / Total 3MECU
+\item LUKAS/SPIN: Software Process Improvement Network. Funded by EU
+  and Regional Council for North Jutland. Member of Board and
+  Principal Investigator (8M DKK, 1995--1996).% 8 MDKK
+\item EEC: HCM Network on "Sensory Mobile Autonomous Robot
+  Technology", Co-proposer and local manager.  (2.9M EUR,
+  1993--1995).% 210 kECU / Total 2.9 MECU 
+\item DOAP: Data Acquisition, - Analysis, and Presentation, LUKAS --
+  Regional Development Fund, North Jutland Regional Council,
+  Co-Proposer and Technical Coordinator. (6M DKK, 1993--1995). Member
+  of  Executive Board for the LUKAS software quality assurance project
+  (1994--1995).% 6 MDKK 
+\item EEC: Vision as Process-II, P-7108-VAP-II, Co-proposer and local
+  manager (3M EUR, 1992--1995).% 3MECU
+\item NorFa: Nordic Research Network on Computer Vision, Co-proposer
+  and ass. coordinator.  (150k DKK, 1992--1995)% 150 KDKK
+\item EEC: Vision as Process, BR-3038-VAP, Co-proposer and local
+  manager (4.7M EUR, 1989--1992).% 4,7 MECU
+\item NorFa: Nordic Ph.D Summer School, Rebild, August 1992, Proposer
+  and coordinator. (200 k DKK)% 200 KDKK
+% \end{enumerate}
+\end{cvlist}
+
+\begin{cvlist}{Gifts:}
+\item National Instruments: \$80k equipment donation (2011-2012).
+\item Coca Cola Bottling Company: \$1M equipment donation for setup of
+  a logistics laboratory (2011).
+\item Private Donation: \$5k award money for the Dick Volz PhD Award
+  (2011)
+\item General Motors: \$12k for promotion of next generation
+  manufacturing (2010)
+\end{cvlist}
+
+
+\begin{cvlist}{Honors and Awards:}
+\item Boeing Supplier of the Year Award (2012)
+\item Dean's Award, College of Computing, GT (2012)
+\item {\em The Joseph Engelberger Award}, Robot Industry Associations (RIA - 2011)
+\item Outstanding Innovation in Research, Faculty Award, Georgia Tech (2011)
+\item Member of NSF CISE Advisory Board (2011-2013)
+\item Member of Robotics Technology Consortium (RTC) Board (2011-2014)
+\begin{sublist}
+\item CTO / Senior Technology Seat (2013-2014)
+\end{sublist}
+\item Named IEEE Senior Technical Expert (2009--2012) 
+\item Peter Freeman Award, College of Computing, GT (2008)
+\item Elected Senior Member of IEEE (2008--)
+\item Member of Advisory Board - Bio-Robotics Prog. Univ. of Utah (2008--)  
+\item Member of Advisory Board - NSF Ctr. Quality of Life Technology,
+  CMU (2007--)
+\item IEEE RAS Distinguished Lecturer in Robotics (2004-2006)
+\item Member of Scientific Advisory Board, Robotics Institute, CMU.  (2004--)
+\item Elected Officer of International Foundation of Robotics Research
+  (2003--)
+  \begin{sublist}
+  \item There are at anytime only 24 officers -- 8 from US, Asia and Europe,
+    respectively.
+  \item Secretary for Technical Activities - Executive Officer (2010--)
+  \end{sublist}
+\item ICRA-2004 Short-listed for best vision paper ``Measurement
+  Errors in Visual Servoing'' authored by V. Kyrki, D. Kragic and H.
+  I. Christensen.
+\item ICRA-2003 Best Paper on Manipulation:  ``Automatic
+  Grasp Planing using Shape Primitives'' authored by A. Miller and
+  S. Knopp, H.I. Christensen and P. Allen.
+\item IROS-2002 Best Paper Award ``Behavior Coordination for
+  Navigation in Real-World Office Environments'' authored by
+  P. Althaus and H.I. Christensen.
+\item Jury Member of Robot Hall of Fame (2003--), Carnegie Mellon 
+  University, Pittsburgh, PA. 
+\item The Foundation Vision North 1991 Research Award.
+  \begin{sublist}
+  \item  Contribution to advancement of research at the Laboratory of Image Analysis, Aalborg University.  
+  \item August 1991.
+  \end{sublist}  
+\end{cvlist}
+\end{cv}
+\end{document}
