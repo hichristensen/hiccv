@@ -1,0 +1,182 @@
+\begin{thebibliography}{10}
+
+\bibitem{dieber2020penetration}
+B.~Dieber, R.~White, S.~Taurer, B.~Breiling, G.~Caiazza, H.~Christensen, and
+  A.~Cortesi, ``Penetration testing ros,'' in {\em Robot Operating System
+  (ROS)}, pp.~183--225, Springer, 2020.
+
+\bibitem{dogar16:towar}
+M.~Dogar, R.~A. Knepper, A.~Spielberg, C.~Choi, H.~I. Christensen, and D.~Rus,
+  ``Towards coordinated precision assembly with robot teams,'' in {\em
+  Experimental Robotics}, STAR, pp.~655--669, Springer Verlag, 2016.
+
+\bibitem{dantam16:onlincamerregisrobotmanip}
+N.~Dantam., A.~H.~B, H.~Christensen, and M.~Stilman, ``Online camera
+  registration for robot manipulation,'' in {\em Experimental Robotics}, STAR,
+  pp.~179--194, Springer Verlag, 2016.
+
+\bibitem{nieto-granda14:effec}
+C.~Nieto-Granda, A.~J. Trevor, J.~G. Rogers, A.~Cunningham, M.~Paluri,
+  N.~Michael, F.~Dellaert, H.~I. Christensen, and V.~Kumar, ``Effects of
+  sensory precision on mobile robot localization and mapping,'' in {\em
+  Experimental Robotics}, STAR, pp.~433--446, Heidelberg/New York: Springer
+  Verlag, Jan 2014.
+
+\bibitem{Christensen:2008fk}
+H.~I. Christensen and G.~Hager, ``Sensing and estimation,'' in {\em Handbook of
+  Robotics} (B.~Siciliano and O.~Khatib, eds.), ch.~4, Berlin Heidelberg New
+  York: Springer Verlag, May 2008.
+
+\bibitem{miller03:-dyn}
+A.~Miller and H.~Christensen, ``Implementation of multi-rigid-body dynamics
+  within a robotic grasping simulator,'' in {\em Intl Conf on Robotics and
+  Automation}, Taipai, Taiwan: IEEE, Sept. 2003.
+
+\bibitem{christensen03:-adapt-hand-eye-coord}
+H.~I. Christensen and D.~Kragic, ``Adaptive hand-eye coordination,'' in {\em
+  Skilled Hand Motion} (H.~Forsberg, ed.), pp.~10--14, KI, Stockholm: Nobel
+  Foundation, June 2003.
+
+\bibitem{kragic03}
+D.~Kragic and H.~Christensen, ``A framework for visual servoing,'' in {\em
+  ICVS-03} (M.~Vincze and J.~Crowley, eds.), vol.~2626 of {\em LNCS}, Springer
+  Verlag, Mar. 2003.
+
+\bibitem{christensen03:-home-appl}
+H.~I. Christensen, ``Intelligent home appliances,'' in {\em Robotics Research}
+  (R.~A. Jarvis and A.~Zelinsky, eds.), no.~6 in Springer Tracts in Advanced
+  Robotics (STAR), pp.~319--330, Heidelberg, DE: Springer Verlag, Jan. 2003.
+
+\bibitem{christensen03:-artif-intel}
+H.~I. Christensen and J.-O. Eklundh, ``Artificial intelligence: Machine
+  vision,'' in {\em Van Norstrand's Scientific Encyclopedia} (G.~D. Considine,
+  ed.), vol.~1, pp.~258--262, New York, NY: Wiley Interscience, Jan. 2003.
+
+\bibitem{ramstrom02:-atten-game-theor}
+O.~Ramstr{\"o}m and H.~I. Christensen, ``Attention using game theory,'' in {\em
+  BMCV-2002}, vol.~2525 of {\em LNCS}, Heidelberg: Springer Verlag, Nov. 2002.
+
+\bibitem{kragic02:-visual-servoin}
+D.~Kragic and H.~Christensen, ``Visual servoing meets the real world,'' in {\em
+  Visual Servoing}, Lausanne: IEEE, Oct. 2002.
+
+\bibitem{jensfelt02:-integ-mappin-local}
+P.~Jensfelt, H.~Christensen, and G.~Zunino, ``Integrated systems for mapping
+  and localization,'' in {\em ICRA-02 SLAM Workshop} (J.~Leonard and
+  H.~Durrant-Whyte, eds.), IEEE, May 2002.
+
+\bibitem{christensen00:-activ-vision-multip-cues}
+H.~Christensen and J.~Eklundh, ``Active vision from multiple cues,'' in {\em
+  Biologically Motivated Computer Vision -- BMCV 2000}, vol.~1811 of {\em
+  Lecture Notes in Computer Science}, pp.~209--216, Seoul, South Korea:
+  Springer Verlag, May 2000.
+\newblock (keynote).
+
+\bibitem{kragic00:-cue-integ-manip}
+D.~Kragi{\'c} and H.~I. Christensen, ``Active visual tracking of an
+  end-effector: Integration of various cues,'' in {\em Robust vision for
+  vision-based control of motion} (M.~Vincze and G.~Hager, eds.), SPIE/IEEE
+  Series on Imaging Science and Engineering, ch.~1, pp.~1--14, New York, Ny --
+  USA: IEEE Press, Jan. 2000.
+
+\bibitem{andersson99:-intel-sensor-based-robot}
+M.~Andersson, A.~Oreb{\"a}ck, M.~Lindstr{\"o}m, and H.~Christensen, {\em
+  Intelligent Sensor Based Robots}, vol.~1724 of {\em Lecture Notes in
+  Artificial Intelligence}, ch.~ISR: An Intelligent Service Robot,
+  pp.~291--314.
+\newblock Heidelberg: Springer Verlag, Oct. 1999.
+
+\bibitem{christensen99:-mobil-manip}
+H.~Christensen, L.~Petersson, and M.~Eriksson, ``Mobile manipulation: Getting a
+  grip?,'' in {\em ISRR-99} (J.~Hollerbach and D.~Koditschek, eds.),
+  Heidelberg: Springer Verlag, Oct. 1999.
+
+\bibitem{large97:-dynam-robot-plann-b}
+E.~Large, H.~I. Christensen, and R.~Bajcsy, ``Dynamic robot planning,'' in {\em
+  Environmental Modeling} (R.~Bolles, H.~Bunke, and H.~Noldemeyer, eds.),
+  pp.~39--58, Singapore: World Scientific Press, Sept. 1997.
+
+\bibitem{bajcsy97:-advan-comput-vision}
+R.~Bajcsy, H.~Christensen, and J.~Kosecka, {\em Advanced in Computer Vision},
+  ch.~Segmentation of behavioural spaces for navigation tasks, pp.~241--250.
+\newblock Advanced in Computer Science, Wien: MIT Press, Mar. 1997.
+
+\bibitem{faymann96:-system-activ-vision-driven-robot}
+J.~Faymann, E.~Rivlin, and H.~I. Christensen, ``A system for active vision
+  driven robotics,'' in {\em Proceedings from The IEEE International Conference
+  on Robotics and Automation, Minneapolis.}, IEEE CS Society, Apr. 1996.
+
+\bibitem{christensen95:-system-integ-contr}
+H.~I. Christensen, E.~Granum, and J.~L. Crowley, {\em System Integration and
+  Control}, pp.~9--22.
+\newblock EEC Basic Research Series, Heidelberg.: Springer Verlag, 1995.
+
+\bibitem{kirkeby95:-vision-progr-workb}
+N.~O. Kirkeby and H.~I. Christensen, {\em A Vision Programmers Workbench},
+  pp.~57--71.
+\newblock Heidelberg: Springer Verlag, 1995.
+
+\bibitem{madsen95:-model}
+C.~B. Madsen and H.~I. Christensen, {\em Modelling and testing the stability of
+  edge segments: Length and orientation}, ch.~Chapter 1., pp.~1--15.
+\newblock Singapore: World Scientific Press, 1995.
+
+\bibitem{christensen95:-contr-percep}
+H.~I. Christensen and E.~Granum, ``Control of perception,'' in {\em Vision as
+  Process} (J.~L. Crowley and H.~I. Christensen, eds.), EEC Basic Research
+  Series, pp.~323--346, Springer Verlag, Jan. 1995.
+
+\bibitem{pirjanian95:-hierar-contr-navig-using-heter-model}
+P.~Pirjanian and H.~I. Christensen, ``Hierarchical control for navigation using
+  heterogenuous models,'' in {\em Modelling and Planning for Sensor Based
+  Intellignet Robot Systems} (H.~Bunke, T.~Kanade, and H.~Noldemeier, eds.),
+  vol.~Vol 21 of {\em Series in Machine Perception and Artificial
+  Intelligence}, pp.~344--361, Singapore: World Scientific Press, Nov. 1995.
+\newblock Proc. from Schloss Dagstuhl meeting on Environmental Modelling.
+
+\bibitem{andreasen94:-image-signal-proces-synop}
+S.~Andreasen and H.~I. Christensen, {\em Image and Signal Processing -
+  Synopsis}, pp.~263--265.
+\newblock Year Book of Medical Informatics - 1994, Schattauer, 1994.
+
+\bibitem{matas94:-const-visual-expec-using-gramm-scene-event}
+J.~Matas, H.~I. Christensen, J.~Kittler, J.~Illingworth, and L.~Nguyen, {\em
+  Constraining Visual Expectations Using a Grammar of Scene Events}, ch.~1,
+  pp.~1--12.
+\newblock Bratislava: World Scientific, July 1994.
+
+\bibitem{crowley94:-vision-proces}
+J.~L. Crowley and H.~I. Christensen, {\em Vision as Process: Integration and
+  Control of a Real Time Active Vision System}, pp.~127--155.
+\newblock Series in Machine Perception and Artificial Intelligence, Singapore:
+  World Scientific, Mar. 1994.
+
+\bibitem{kirkeby94:-vision-progr-workb-vipwob}
+N.~O.~S. Kirkeby and H.~I. Christensen, {\em The Vision Programmers Workbench
+  (VIPWOB)}, vol.~Vol 11 of {\em Series in Machine Perception and Artificial
+  Intelligence}, pp.~195--224.
+\newblock Singapore: World Scientific, Mar. 1994.
+
+\bibitem{christensen93:-activ-vision-robot-navig}
+H.~I. Christensen, N.~O. Kirkeby, S.~Kristensen, and L.~F. Knudsen, ``Active
+  vision for robot navigation,'' in {\em Proceedings from IRS'93, Zakopane,
+  Poland}, pp.~44--56, Polish Academy of Science, July 1993.
+
+\bibitem{eggert92:-apply-scale-space-concep-persp}
+D.~W. Eggert, K.~W. Bowyer, C.~R. Dyer, H.~I. Christensen, and D.~B. Goldgof,
+  ``Applying the scale space concept to perspective projection aspect graphs,''
+  in {\em Theory and Applications of Image Analysis - Selected Papers from 7th
+  Scandinavian Conference on Image Analysis.} (P.~Johansen and S.~I. Olsen,
+  eds.), pp.~48--62., World Scientific Publishers, 1992.
+
+\bibitem{granum90:-dynam-robot-vision}
+E.~Granum and H.~I. Christensen, ``Dynamic robot vision,'' in {\em Traditional
+  and Non-Traditional Robotic Sensors.} (T.~Henderson, ed.), vol.~63 of {\em
+  NATO ASI Series F}, pp.~57--71, Springer Verlag, Mar. 1990.
+
+\bibitem{christensen88:-token-match-real-time-motion-analy}
+H.~I. Christensen and E.~Granum, {\em On Token-Matching in Real-Time Motion
+  Analysis}, vol.~301 of {\em LNCS}, pp.~448--457.
+\newblock Heidelberg: Springer Verlag, Mar. 1988.
+
+\end{thebibliography}

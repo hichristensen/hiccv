@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: hiccv5.aux
+The style file: ieeetr.bst
+Database file #1: conf-papers.bib
+Reallocated field_info (elt_size=4) to 10014 items from 5000.
+You've used 242 entries,
+            1876 wiz_defined-function locations,
+            1716 strings with 49568 characters,
+and the built_in function-call counts, 70571 in all, are:
+= -- 6152
+> -- 3139
+< -- 0
++ -- 1103
+- -- 861
+* -- 5896
+:= -- 9710
+add.period$ -- 245
+call.type$ -- 242
+change.case$ -- 241
+chr.to.int$ -- 0
+cite$ -- 242
+duplicate$ -- 4072
+empty$ -- 7433
+format.name$ -- 861
+if$ -- 16979
+int.to.chr$ -- 0
+int.to.str$ -- 242
+missing$ -- 243
+newline$ -- 732
+num.names$ -- 342
+pop$ -- 1391
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2135
+stack$ -- 0
+substring$ -- 3762
+swap$ -- 1210
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 615
+width$ -- 245
+write$ -- 2477

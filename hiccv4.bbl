@@ -1,0 +1,325 @@
+\begin{thebibliography}{10}
+
+\bibitem{yang20:CombaCovid}
+G.-Z. Yang, B.~Nelson, R.~Murphy, H.~Christensen, S.~Collins, P.~Dario,
+  K.~Goldberg, K.~Ikuta, N.~Jacobstein, D.~Kragic, R.~Taylor, and M.~McNutt,
+  ``Combating covid-19 -- the role of robotics in managing public health and
+  infectious diseases,'' {\em Science Robotics}, March 2020.
+\newblock (Editorial).
+
+\bibitem{yang19:_ten_techn}
+G.-Z. Yang, R.~J. Full, N.~Jacobstein, P.~Fischer, J.~Bellingham, H.~Choset,
+  H.~Christensen, P.~Dario, B.~J. Nelson, and R.~Taylor, ``Ten technologies of
+  the year,'' {\em Science Robotics}, vol.~4, 2019.
+
+\bibitem{parashar18:KER}
+P.~Parashar, A.~Goel, B.~Sheneman, and H.~I. Christensen, ``Towards lifelong
+  adaptive agents: Using meta- reasoning for combining task planning and
+  situated learning,'' {\em The Knowledge Engineering Review}, vol.~33, Oct
+  2018.
+
+\bibitem{price18:ICAE}
+A.~Price, S.~Balakirsky, and H.~Christensen, ``Robust grasp preimages under
+  unknown mass and friction distributions,'' {\em Integrated Computer Aided
+  Engineering}, vol.~25, pp.~99--110, Mar 2018.
+
+\bibitem{cosgun18:JBR}
+A.~Cosgun and H.~I. Christensen, ``Context aware robot navigation using
+  interactively built semantic maps,'' {\em Paladyn. Journal of Behavioral
+  Robotics}, vol.~9, no.~1, pp.~254--276, 2018.
+
+\bibitem{berman18:realizpotendatascien}
+F.~Berman, R.~A. Rutenbar, B.~Hailpern, H.~Christensen, S.~Davidson, D.~Estrin,
+  M.~Franklin, M.~Martonosi, P.~Raghavan, V.~Stodden, and A.~S. Szalay,
+  ``Realizing the potential of data science,'' {\em Communications of the ACM},
+  vol.~61, pp.~67--72, Apr 2018.
+
+\bibitem{doi:10.1177/0278364917732640}
+S.~Choudhary, L.~Carlone, C.~Nieto, J.~Rogers, H.~I. Christensen, and
+  F.~Dellaert, ``Distributed mapping with privacy and communication
+  constraints: Lightweight algorithms and object-based models,'' {\em The
+  International Journal of Robotics Research}, vol.~36, no.~12, pp.~1286--1311,
+  2017.
+
+\bibitem{Christensen2017}
+H.~I. Christensen, A.~Khan, S.~Pokutta, and P.~Tetali, ``Approximation and
+  online algorithms for multidimensional bin packing: A survey,'' {\em Computer
+  Science Review}, pp.~--, 2017.
+
+\bibitem{choi16:rgbd}
+C.~Choi and H.~I. Christensen, ``Rgb-d object pose estimation in unstructured
+  environments,'' {\em Robotics and Autonomous Systems}, vol.~75, pp.~595--613,
+  January 2016.
+
+\bibitem{gomez15:robotvisionchall}
+J.~M. Gomez, B.~Caputo, M.~Cazorla, H.~I. Christensen, M.~Fornoni,
+  I.~Garc{\`i}a-Varea, and A.~Pronobis, ``The robot vision challenge: Where are
+  we after 5 editions?,'' {\em IEEE Robotics and Automation Magazine}, vol.~22,
+  pp.~146--156, Dec 2015.
+
+\bibitem{choi2015ijrr}
+M.Dogar, R.A.Knepper, A.Spielberg, C.Choi, H.I.Christensen, and D.Rus,
+  ``Multi-scale assembly with robot teams,'' {\em International Journal of
+  Robotics Research}, vol.~34, pp.~1645--1659, Jul 2015.
+
+\bibitem{C4AN00277F}
+R.~V. Bennett, E.~M. Morzan, J.~O. Huckaby, M.~E. Monge, H.~I. Christensen, and
+  F.~Fernandez, ``Robotic plasma probe ionization mass spectrometry
+  {(RoPPI-MS)} of non-planar surfaces,'' {\em Analyst}, vol.~139,
+  pp.~2658--2662, 2014.
+
+\bibitem{DBLP:journals/corr/SawhneyCB14}
+R.~Sawhney, H.~I. Christensen, and G.~R. Bradski, ``Anisotropic agglomerative
+  adaptive mean-shift,'' {\em CoRR}, vol.~abs/1411.4102, 2014.
+
+\bibitem{nieto-granda13:coord}
+C.~Nieto-Granda, J.~G.~R. III, and H.~I. Christensen, ``Coordination strategies
+  for multi-robot exploration and mapping,'' {\em Intl. Jour. of Robotics
+  Research}, vol.~33, pp.~519--533,
+  http://ijr.sagepub.com/cgi/reprint/33/4/519.pdf?ijkey=qZzHyhVZ2dxFXN7 2014.
+
+\bibitem{DBLP:journals/ram/Christensen12}
+H.~I. Christensen, ``Formulation of a u.s. national strategy for robotics
+  [industrial activities],'' {\em IEEE Robot. Automat. Mag.}, vol.~19, no.~2,
+  pp.~10--14, 2012.
+
+\bibitem{choi12:robuseuclid}
+C.~Choi and H.~I. Christensen, ``Robust 3d visual tracking using particle
+  filtering on the special {E}uclidean group: A combined approach of keypoint
+  and edge features,'' {\em Intl. Jour. of Robotics Research}, vol.~31, no.~4,
+  pp.~498--519, 2012.
+
+\bibitem{DBLP:journals/ijsr/YoungSVSICG11}
+J.~E. Young, J.-Y. Sung, A.~Voida, E.~Sharlin, T.~Igarashi, H.~I. Christensen,
+  and R.~E. Grinter, ``Evaluating human-robot interaction - focusing on the
+  holistic interaction experience,'' {\em I. J. Social Robotics}, vol.~3,
+  no.~1, pp.~53--67, 2011.
+
+\bibitem{elfwing07:darwinembodevolutlearnabilitsurviv}
+S.~Elfwing, E.~Uchibe, K.~Doya, and H.~I. Christensen, ``Darwinian embodied
+  evolution of the learning ability for survival,'' {\em Adaptive Behaviour},
+  vol.~19, no.~2, pp.~101--120, 2011.
+
+\bibitem{okamura10:medichealtcarerobot}
+A.~Okamura, M.~Mataric, and H.~I. Christensen, ``Medical and health-care
+  robotics,'' {\em Robotics and Automation Magazine}, vol.~17, pp.~26--27, Sep
+  2010.
+
+\bibitem{topp10:detec}
+E.~A. Topp and H.~I. Christensen, ``Detecting region transitions for
+  human-augmented mapping,'' {\em IEEE Trans.~on Robotics}, vol.~26,
+  pp.~715--720, Aug 2010.
+
+\bibitem{young10:evaluathumanrobotinter}
+J.~Young, J.~Sung, A.~Volda, E.~Sharlin, Y.~Igarashi, H.~I. Christensen, and
+  B.~Grinter, ``Evaluating human-robot interaction: Focusing on the holistic
+  interaction experience,'' {\em I. J. of Social Robotics}, vol.~2, no.~4,
+  2010.
+
+\bibitem{sung10:domesrobotecolog}
+J.-Y. Sung, R.~E. Grinter, and H.~I. Christensen, ``Domestic robot ecology - an
+  initial framework to unpack long-term acceptance of robots at home,'' {\em
+  International Journal of Social Robotics}, 2010.
+
+\bibitem{Frintrop:2009zk}
+S.~Frintrop, E.~Rome, and H.~I. Christensen, ``Computational visual attention
+  systems and their cognitive foundation: A survey,'' {\em ACM {T}rans. on
+  {A}ctive {P}erception}, vol.~10, no.~1, p.~(in press), 2010.
+
+\bibitem{smith09:const}
+C.~Smith and H.~I. Christensen, ``Constructing a high-performance robot from
+  commercially available parts,'' {\em IEEE Robotics and Automation Magazine},
+  vol.~16, pp.~75--83, Dec. 2009.
+
+\bibitem{pronobis09}
+A.~Pronobis, B.~Caputo, P.~Jensfelt, and H.~I. Christensen, ``A realistic
+  benchmark for visual indoor place recognition,'' {\em Robotics and Autonomous
+  Systems}, Aug 2009.
+
+\bibitem{lee09}
+G.~Lee, S.~Yoon, N.~Chong, and H.~Christensen, ``mobile sensor network forming
+  concentric circles through local interaction and consensus building,'' {\em
+  Jour. of Robotics and Mechatronics}, vol.~21, pp.~469--477, July 2009.
+
+\bibitem{smith08:teleop}
+C.~Smith, M.~Bratt, and H.~I. Christensen, ``Teleoperation for a ballcatching
+  task with significant dynamics,'' {\em IEEE Trans on Neural Networks},
+  vol.~21, pp.~604--620, May 2008.
+
+\bibitem{zivkovic08:fromsensorhumanspatialconcep}
+Z.~Zivkovic, O.~Booji, B.~Krose, E.~A. Topp, and H.~I. Christensen, ``From
+  sensors to human spatial concepts: An annotated data set",'' {\em IEEE Trans
+  on Robotics}, vol.~24, pp.~501--505, March 2008.
+
+\bibitem{elfwing07:coevolutshapinrewarmeta}
+S.~Elfwing, E.~Uchibe, K.~Doya, and H.~I. Christensen, ``Co-evolution of
+  shaping rewards and meta-parameters in reinforcement learning,'' {\em
+  Adaptive Behaviour}, vol.~16, pp.~400--412, Dec 2008.
+
+\bibitem{xiong07:agentnegottargetdistrenhansystemsurviv}
+N.~Xiong, H.~I. Christensen, and P.~Svensson, ``Agent negotiation of target
+  distribution enhancing system surviveabilty,'' {\em Intl Jour. of Intelligent
+  Systems}, vol.~22, pp.~1251--1269, dec 2007.
+
+\bibitem{wooden07:hybridsystemarchitautonurbandrivin}
+D.~Wooden, M.~Powers, M.~Egerstedt, H.~Christensen, and T.~Balch, ``Hybrid
+  system architecture for autonomous, urban driving,'' {\em Journal of
+  Aerospace Computing, Information, and Communication}, vol.~4, pp.~1047--1058,
+  Dec. 2007.
+
+\bibitem{folkesson07:mslam}
+J.~Folkesson, P.~Jensfelt, and H.~I. Christensen, ``The {M}-space feature
+  representation for {SLAM},'' {\em IEEE Transaction on Robotics}, vol.~23,
+  pp.~106--115, oct 2007.
+
+\bibitem{lundberg07:longurbanterrain}
+C.~Lundberg, H.~I. Christensen, and R.~Reinhold, ``Long-term study of a
+  portable field robot in {U}rban {T}errain,'' {\em Journal of Field Robotics},
+  vol.~24, pp.~625--650, Sept. 2007.
+
+\bibitem{folkesson07:closingraphslam}
+J.~Folkesson and H.~I. Christensen, ``Closing the loop with {G}raphical
+  {SLAM},'' {\em {IEEE} {T}rans. on {R}obotics}, vol.~23, pp.~731--741, Aug.
+  2007.
+
+\bibitem{elfwing07:evolutdevelhierarlearnstruc}
+S.~Elfwing, E.~Uchibe, K.~Doya, and H.~I. Christensen, ``Evolutionary
+  development of hierarchical learning structures,'' {\em IEEE Trans on
+  Evolutionary Computing}, vol.~11, pp.~249--264, apr 2007.
+
+\bibitem{folkesson07:graphslam}
+J.~Folkesson and H.~I. Christensen, ``Graphical {SLAM} for {O}utdoor
+  {A}pplications,'' {\em Journal of Field Robotics}, vol.~24, pp.~51--70, Feb.
+  2007.
+
+\bibitem{xiong06:reacttunintargetestimaccur}
+N.~Xiong, H.~I. Christensen, and P.~Svensson, ``Reactive tuning of target
+  estimation accuracy in multi-sensor data fusion,'' {\em Cybernetics and
+  Systems}, vol.~38, pp.~83--103, Jan. 2007.
+
+\bibitem{kyrki06:measurerrorvisualservoin}
+V.~Kyrki, D.~Kragic, and H.~I. Christensen, ``Measurement errors in visual
+  servoing,'' {\em Robotics and Autonomous Systems}, vol.~54, pp.~815--827,
+  Oct. 2006.
+
+\bibitem{kragic05:issues}
+D.~Kragic, M.~Bj{\"o}rkman, H.~I. Christensen, and J.-O. Eklundh, ``Issues and
+  strategies for robotic object manipulation in domestic settings,'' {\em
+  Robotics and Autonomous Systems}, pp.~85--100, June 2005.
+
+\bibitem{christensen05:euroneuroprobotnetwor}
+H.~I. Christensen, ``{EURON}- {E}uropean {R}obotics {N}etwork,'' {\em {IEEE}
+  {R}obotics and {A}utomation {M}agazine}, vol.~12, June 2005.
+
+\bibitem{kragic03:robusvisualservoin}
+D.~Kragic and H.~I. Christensen, ``Robust visual servoing,'' {\em Intl Jour. of
+  Robotics Research}, vol.~22, pp.~923--940, Oct. 2003.
+
+\bibitem{althauschristensen:03c}
+P.~Althaus and H.~I. Christensen, ``Behavior coordination in structured
+  environments,'' {\em Advanced Robotics}, vol.~17, no.~7, pp.~657--674, 2003.
+
+\bibitem{althaus03:smoot}
+P.~Althaus and H.~I. Christensen, ``Smooth task switching through behaviour
+  competition,'' {\em Robotics and Autonomous Systems}, vol.~44, pp.~241--249,
+  Sept. 2003.
+
+\bibitem{orebaeck03:evaluat}
+A.~Oreb{\"a}ck and H.~I. Christensen, ``Evaluation of architectures for mobile
+  robotics,'' {\em Autonomous Robots}, vol.~14, pp.~33--50, Jan. 2003.
+
+\bibitem{jensfelt01:posetrackusinglaserscann}
+P.~Jensfelt and H.~I. Christensen, ``Pose tracking using laser scanning and
+  minimalistic environmental models,'' {\em IEEE Trans. on Robotics and
+  Automation}, vol.~17, pp.~138--147, Apr. 2001.
+
+\bibitem{kragic01:cueintegvisualservoin}
+D.~Kragic and H.~I. Christensen, ``Cue integration for visual servoing,'' {\em
+  IEEE Trans. on Robotics and Automation}, vol.~17, pp.~18--27, Feb. 2001.
+
+\bibitem{simoncelli00:autonpoolc}
+M.~Simoncelli, G.~Zunino, H.~Christensen, and K.~Lange, ``Autonomous
+  poolcleaning: Self localisation and autonomous navigation for cleaning,''
+  {\em Autonomous Robots}, vol.~9, pp.~261--270, Dec. 2000.
+
+\bibitem{wijk00:trianbasedfusionsonardata}
+O.~Wijk and H.~Christensen, ``Triangulation based fusion of sonar data with
+  application in robot pose tracking,'' {\em IEEE Transaction on Robotics and
+  Automation}, vol.~16, pp.~740--752, Dec. 2000.
+
+\bibitem{wijk00:local}
+O.~Wijk and H.~I. Christensen, ``Localisation and navigation of a mobile robot
+  using natural landmarks extracted from sonar data,'' {\em Robotics and
+  Autonomous Systems}, vol.~31, pp.~31--42, Apr. 2000.
+
+\bibitem{fayman99:exploitredunpurposmodulcontexactivvision}
+J.~Faymann, P.~Pirjanian, H.~I. Christensen, and E.~Rivlin, ``Exploiting
+  process integration and composition in the context of active vision,'' {\em
+  IEEE Transaction of Systems, Man and Cybernetics}, vol.~29, pp.~73--86, Feb.
+  1999.
+
+\bibitem{large99:scalin}
+E.~W. Large, H.~I. Christensen, and R.~Bajcsy, ``Scaling the dynamic approach
+  to path planning and control: Competition amoung behavioural constriants,''
+  {\em Intl. Jour. of Robotics Research}, vol.~18, pp.~37--58, Jan. 1999.
+
+\bibitem{faymann98:avshell}
+J.~Faymann, E.~Rivlin, and H.~Christensen, ``The av-shell,'' {\em Autonomous
+  Robots}, 1998.
+
+\bibitem{pirjanian98:applic}
+P.~Pirjanian, H.~I. Christensen, and J.~Fayman, ``Application of voting to
+  fusion of purposive modules: an experimental investigation,'' {\em Robotics
+  and Autonomous Systems}, vol.~23, no.~4, pp.~253--266, 1998.
+
+\bibitem{dickinson97:activobjecrecogintegatten}
+S.~Dickinson, H.~I. Christensen, J.~Tsotsos, and G.~Olofsson, ``Active object
+  recognition integrating attention and view point control,'' {\em Computer
+  Vision and Image Understanding}, vol.~67, pp.~239--260, Sept. 1997.
+
+\bibitem{kosecka97:experbehavcompos}
+J.~Kosecka, H.~I. Christensen, and R.~Bajcsy, ``Experiments in behaviour
+  composition,'' {\em Journal on Robotics and Autonomous Systems}, vol.~19,
+  pp.~287--318, Mar. 1997.
+
+\bibitem{madsen97:viewpplannstratdetertrue}
+C.~B. Madsen and H.~I. Christensen, ``A viewpoint planning strategy for
+  determining true angles on polyhedral objects by camera alignment,'' {\em
+  IEEE Trans. PAMI}, vol.~19, pp.~158--163, Feb. 1997.
+
+\bibitem{kosecka95:discreventmodelvisualguidedbehav}
+J.~Ko{\v{s}}eck{\'{a}}, H.~I. Christensen, and R.~Bajcsy, ``Discrete event
+  modeling of visually guided behaviors,'' {\em Intl. Jour. on Computer Vision,
+  Special Issue on Qualitative Vision}, vol.~8, pp.~179--191, Mar. 1995.
+
+\bibitem{pirjanian94:amor}
+P.~Pirjanian, H.~Blaasv{\ae}r, and H.~I. Christensen, ``Amor: An autonomous
+  mobile robot navigation system,'' {\em IEEE, International Conference on
+  Systems, Man and Cybernetics}, vol.~3, pp.~2266--2271, Oct. 1994.
+
+\bibitem{christensen94:purposrecon}
+H.~I. Christensen and C.~B. Madsen, ``Purposive reconstruction,'' {\em CVGIP:
+  Image Understanding}, vol.~60, pp.~103--108, July 1994.
+
+\bibitem{christensen94:model}
+H.~Christensen, N.~Kirkeby, S.~Kristensen, and L.~Knudsen, ``Model-driven
+  vision for in-door navigation,'' {\em Robotics and Autonomous Systems},
+  vol.~12, pp.~199--207, 1994.
+
+\bibitem{eggert93:scalespaceaspecgraph}
+D.~W. Eggert, K.~W. Bowyer, C.~R. Dyer, H.~I. Christensen, and D.~B. Goldgof,
+  ``The scale space aspect graph,'' {\em IEEE Transactions on Pattern Analysis
+  and Machine Intelligence}, vol.~14, pp.~1114--1130, Dec. 1993.
+
+\bibitem{christensen93:lowcostrobotcamerhead}
+H.~I. Christensen, ``A low-cost robot camera head,'' {\em Intl. Jour. of
+  Pattern Recognition and Artificial Intelligence. Special issue on Active
+  Robot Vision: Camera Heads, Model Based Navigation and Reactive Control},
+  vol.~7, pp.~69--87, Feb. 1993.
+
+\bibitem{andersen92:navigusingrangeimagesmobilrobot}
+C.~S. Andersen, C.~B. Madsen, J.~J. S{\o}rensen, N.~O.~S. Kirkeby, J.~P. Jones,
+  and H.~I. Christensen, ``Navigation using range images on a mobile robot,''
+  {\em Robotics and Autonomous Systems}, vol.~10, pp.~147--160, 1992.
+
+\end{thebibliography}
