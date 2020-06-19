@@ -1,16 +1,16 @@
 \documentclass{article}
-\usepackage[latin1]{inputenc}              % Scandivanian characters
-\usepackage{fancyhdr}                      % headers on every page
+\usepackage[latin1]{inputenc}               % Scandivanian characters
+\usepackage{fancyhdr}                       % headers on every page
 \usepackage{charter}
 \usepackage[T1]{fontenc}
-\usepackage{hiccurrvita}                   % currvita modified to handle
-                                           % multiple biographies
-\usepackage[unitcntnoreset]{bibtopic}      % multiple biographies
-\bibliographystyle{ieeetr}                 % numbered citations
-\usepackage{tocloft}                       % tabs with dots
-\usepackage{graphicx}                      % inclusion of graphics
+\usepackage{hiccurrvita}                    % currvita modified to handle
+                                            % multiple biographies
+\usepackage[unitcntnoreset]{bibtopic}       % multiple biographies
+\bibliographystyle{ieeetr}                  % numbered citations
+\usepackage{tocloft}                        % tabs with dots
+\usepackage{graphicx}                       % inclusion of graphics
 \usepackage[colorlinks=true,plainpages=false]{hyperref}
- 
+\usepackage{microtype}
 \setlength{\topmargin} {-0.30in}
 \setlength{\textwidth} {6.85in}
 \setlength{\textheight}{8.50in}
@@ -26,28 +26,28 @@
     }%
 }%
 { \end{list} }
-               
+
 \newenvironment{subbulletlist}{%
   \begin{list}{\labelitemii}{%
       \setlength{\topsep}{\itemsep}\setlength{\parskip}{\parsep}%
     }%
 }%
 { \end{list} }
-                              
+
 % -- headers --------------------------------------------------
-\rhead{Henrik I Christensen}
+\rhead{Henrik Iskov Christensen}
 \lhead{Curriculum Vitae}
 \rfoot{\today}
 \pagestyle{fancy}
-\title{CV for Henrik I Christensen}
+\title{CV for Henrik Iskov Christensen}
 
 % -------------------------------------------------------------
 \begin{document}
 \pagenumbering{arabic}
 \begin{tabular}{cl}
   \begin{minipage}{4cm}
-    \includegraphics[width=3.5cm]{hic-face-new}
-  \end{minipage}& 
+    \includegraphics[width=3.5cm]{hic-face-2019}
+  \end{minipage}&
   \begin{minipage}{10cm}
     {\Large
       \begin{center}
@@ -59,36 +59,31 @@
   \end{minipage}
 \end{tabular}
 \vspace{5mm}
-\setlength{\cvlabelwidth}{35mm}
 
 % -------------------------------------------------------------
 
 \begin{cv}
-  
+
   \noindent{\bf \large I. PERSONAL DATA}
-  
+
   \noindent
   \begin{cvlist}{~}
-  \item[Name:]\ \\ 
+  \item[Name:]\ \\
     Henrik Iskov Christensen,\\
     Born: Frederikshavn, Denmark\\
   \item[Address:]\ \\
-    855 Peachtree St NE, Unit 2603\\
-    Atlanta, GA 30308\\
-    Phone: +1 404 754 7624 / 404 824 7584\\
+    13616 Hillmar Trl\\
+    San Diego, CA 92130\\
+    Phone: +1 858 260 0570\\
     Email: \url{hichristensen@gmail.com}\\
-%    \end{minipage}
-%    \begin{minipage}{6cm}
   \item[Affiliation:]\ \\
-    Center for Robotics and Intelligent Machines\\
-    College of Computing - Interactive Computing\\
-    Georgia Institute of Technology\\
-    Atlanta, GA 30332-0280\\
-    Phone: +1 404 385 7480, Cell: +1 404 889 2500\\
-    Email: \url{hic@cc.gatech.edu}\\
-%    \end{minipage}
-  \item[Citizenship:] Danish (US Green Card Holder)
-% \item[Marital status:] Unmarried
+    Institute for Contextual Robotics\\
+    Jacobs School of Engineering\\
+    Univ. of California - San Diego\\
+    9500 Gilman Drive\\   La Jolla, CA 92093-0436\\
+    Cell: +1 404 889 2500\\
+    Email: \url{hichristensen@ucsd.edu}\\
+  \item[Citizenship:] USA (Naturalized Dane)
   \end{cvlist}
 
   \begin{cvlist}{Professional interests:}
@@ -101,7 +96,7 @@
 \noindent{\bf \large II. EDUCATIONAL BACKGROUND}
 
   \begin{cvlist}{~}
-  \item[1989] Ph.D, Faculty Council of Technical Sciences, Aalborg
+  \item[1989] Ph.D., Faculty of Technical Sciences, Aalborg
     University, DK.
     \begin{sublist}
     \item Major subjects: Motion Analysis, Multi Scale Image
@@ -110,10 +105,10 @@
       Analysis''.
     \item Supervisor: Prof. Erik Granum.
     \end{sublist}
-  \item[1987] M.Sc. EE (summa cum lauda), Institute of Electronic
+  \item[1987] M.Sc. EE (summa cum laude), Institute of Electronic
     Systems, Aalborg University, DK
     \begin{sublist}
-    \item Major subjects: Process Control and Image Analysis 
+    \item Major subjects: Process Control and Image Analysis
     \item Thesis: ``Monitoring Moving Objects in Real-Time''
     \end{sublist}
   \item[1981] Technical Assistant -- Mechanical Engineering, Cert.
@@ -126,23 +121,71 @@
 \noindent{\bf \large III. EMPLOYMENT}
 
 \begin{cvlist}{Professional Experience:}
-\item[Aug 2009 --] Adjunct Professor of Electrical and Computer
+
+\item[Feb 2019 --] Co-founder of Robust.AI, Palo Alto, CA 
+
+\item[Jul 2017 --] Qualcomm Chancellor's Chair in Robot Systems, UC San Diego.
+
+\item[Aug 2016 --] Director Institute for Contextual Robotics, UC San
+  Diego. The Institute studies robot systems in the context of its
+  actual use-cases and real-time perceptual information to provide
+  holistic and robust solutions. The Institute includes four
+  departments across Engineering and Social Sciences.
+
+\item[Aug 2016 --] Professor of Computer Science, Dept.\ of Computer
+  Science and Engineering, UC San Diego, California, USA.
+
+\item[Oct 2016 --Jul 2018] Member Board of Director, Blue Ocean Robotics Ltd,
+  Odense, Denmark.
+
+\item[Feb 2014 -- 2016] Advisor to the Manufacturing Academy of
+  Denmark (MADE) with particular emphasis on strategy and impact. MADE
+  is a joint venture between Danish Production Companies, The Council
+  for Strategic Research and 4 Danish Universities.
+
+\item[Jan 2014 -- Sep 2016] Board of Directors, ``Universal Robots
+  Inc''. New York, NY. The US subsidiary of Universal Robots, Odense, DK
+
+\item[Oct 2013 --Jul 2016] Founding Executive Director,
+  ``Institute for Robotics and Intelligent
+  Machines'', Georgia Institute of Technology - IRIM - a unit that
+  involves more than 60 faculty and 150 graduate students doing
+  research, education and translation of robotics across
+  manufacturing, services, healthcare and defense applications.
+
+\item[Sep 2013 --] Co-Founder and Strategic Advisor to ``Robo-Global''
+  a benchmark index to track the global robotics and automation
+  market. Chairman of AI Strategy and general robotics
+  advisor. Robo-Stox, is an exchange traded fund (ETF) on NYSE with
+  the ticker symbol ROBO.  A parallel fund was launched at London
+  Stock Exchange 2014. The international company was renamed
+  Robo-Global from Robo-Stox January 2016.
+
+\item[June 2013 --] Co-founder/Partner of the company ``Christensen
+  Consulting Group'', providing services to government agencies.
+
+\item[May 2012--2014] Co-founder/Partner of the company The ``OR
+  Standard'' - a company that optimizes workflow for hospital
+  operating suites. Initially, seeded through the GT Flashpoint
+  Program.
+
+\item[Aug 2009--2017] Adjunct Professor of Electrical and Computer
   Engineering, College of Engineering, Georgia Institute of
-  Technology. 
+  Technology.
 
-\item[Aug 2006 --] Director Georgia Tech Center for Robotics and
+\item[Aug 2006--Oct 2013] Director Georgia Tech Center for Robotics and
   Intelligent Machines (RIM@GT), an interdepartmental research center
-  involving College of Computing, College of Engineering, and GTRI. 
+  involving College of Computing, College of Engineering, and GTRI.
 
-\item[Feb 2006 --] Distinguished Professor of Computer Science/Kuka
+\item[Feb 2006 --Aug 2016]  Professor of Computer Science/Kuka
   Chair of Robotics -- Georgia Institute of Technology, Atlanta, GA,
   USA. Part time during 2006 and full time from January 2007
-  
+
 \item[July 1998--Dec 2006] Chaired Professor of Computer Science,
   Dept.\ of Numerical Analysis and Computer Science, Royal Institute
   of Technology, Stockholm, Sweden. On part-time leave during 2006
 
-\item[Sept. 1996--Jul 2006] Scientific Director for ``Center for
+\item[Sept. 1996--July 2006] Scientific Director for ``Center for
   Autonomous Systems'', Kungliga Tek\-ni\-ska H\"og\-skolan,
   Stock\-holm.  Sponsored by the Swedish Strategic Research
   Foundation. Associated with the Computational Vision and Active
@@ -161,7 +204,7 @@
   projects.
 
 \item[June 1992--Sept. 1995] Local manager for the ESPRIT Basic
-  Research project "Vision as Process-II".  Principal investigator
+  Research project ``Vision as Process-II''.  Principal investigator
   wrt.  control of perception.
 
 \item[Jan. 1990--Dec. 1993] Chairman of the National Vision
@@ -192,28 +235,36 @@
 \item[1986--1987] Part time programmer \& Teaching Assistant,
   Image Analysis Group, Aalborg University, DK.
 
-\item[1980] Trainee as technical assistant, Department of
+\item[1980] Trainee as ``Technical Assistant'', Department of
   Automation, B\&W/MAN Alpha Diesel A/S, Frederikshavn, DK.
 \end{cvlist}
 
 \begin{cvlist}{Consulting Experience:}
-\item Member of International Advisory Committee, Instituto Robotica e
-  Systemas, Lisboa, Portugal, (1998--2008)
-\item Member of the European Image Understanding Environment Design
-  Committee, February 1994--1997.
-\item Industrial Consultant: 
+\item Industrial Consultant:
   \begin{sublist}
-  \item MAG-IAS Composites (2010--)
-  \item Symbotic (2012--)
+  \item OnRobot - Advisor - Board Member (2018--2019)
+  \item Covariant.AI - Advisory Board (2018--2019)
+  \item Ready Robotics - Chair of Advisory Board (2017--2019)
+  \item Tech Mahindra - Manufacturing Advisory Board (2015--2018)
+  \item General Electric - Robotics Advisory Board (2015--2016)
+  \item The Boeing Company - Strategic Automation Roadmap (2015)
+  \item DARPA DRC Impact Study \& Student Contest (2013--2015)
+  \item CLSA - Robotics \& Automation (2014--2016)
+  \item Symbotic (2014)
+  \item MAG-IAS Composites Board (2010--2013)
   \item C\&S WholeSale (2010--2011)
-  \item iRobot (2004-2006)
+  \item Scientific Advisor to Evolution Robotics (1998--2012)
+  \item Member of International Advisory Committee, Instituto Robotica e
+    Systemas, Lisboa, Portugal, (1998--2008)
+  \item iRobot (2004--2006)
   \item ABB (2001--2005)
   \item Totoya Motor Company (2000--2004)
-  \item Scientific Advisor to Evolution Robotics (1998--2012)
-  \item Registered consultant for Apple Computers Inc. (DK, 1989-1995) 
+  \item Member of the European Image Understanding Environment Design
+    Committee, (1994--1997)
+  \item Registered consultant for Apple Computers Inc. (DK, 1989--1995)
   \item Development of a system for automatic real time obstacle
-    detection on rail road crossings (DSB, 1988) 
-  \end{sublist}  
+    detection at rail road crossings (DSB, 1988)
+  \end{sublist}
 \end{cvlist}
 
 % -------------------------------------------------------------
@@ -224,30 +275,44 @@
 
 \item[Ph.D supervision - Ongoing]\ \\
   \begin{enumerate}
-  \item ``Task modeling for robot automation'', Kimoon Lee, ECE @ GT
-    (2015)
-  \item ``Semantic Modeling of Industrial Environments'', Rahul
-    Swahney, Robotics @ GT (2015)
-  \item ``Outdoor Semantic Mapping'', Carlos Nieto, ECE @ GT (2015)
-  \item ``People Tracking in Complex Environments'', Akansel Cosgun,
-    Robotics @ GT (2014)
-  \item ``Optimization of physical flow problems'', Pushkar Kolhe, CS
-    @ GT (2014)
-  \item ``2 and 3D Model Based Object Recognition'', Changhyun Choi,
-    Robotics @ GT (2013)
-  \item ``Robot Learning by Demonstration'', Jake Huckaby, Robotics @
-    GT (2013)
-  \item ``Cooperation in dynamic, heterogenous multi-agent teams'',
-    Charles Pippin, CS @ GT (2013)
-  \item ``Model Based SLAM'', Alexander Trevor, Robotics @ GT (2013)
+  \item ``Autonomous Micro-Mobility'', David Paz, ECE @ UCSD (2023)
+  \item ``ML for Autonomy'', Quan Voung, CS @ UCSD (2023)
+  \item ``Affordance based manipulation'', Andrea Frank, CSE @ UCSD (2022)
+  \item ``Object Based Mapping'', Anwesan Pal, CS @ UCSD (2022)
+  \item ``Social Autonomy for Service Robots'', Priyam Parashar, CS @
+    UCSD (2021)
+  \item ``Robotics Software Engineering'', Ruffin White, CS @ UCSD (2020)
+  \item ``Robust Autonomy'', Shengye Wang, CS @ UCSD (2020)
+  \item ``Affordance based planning for manipulation'', Andrew Price,
+    Robotics @ GT (2020 - Joint with S. Balakirsky)
   \end{enumerate}
+
 
 \item[Ph.D supervision - Completed]\ \\
   \begin{enumerate}
+  \item ``Multi-Robot Navigation and Mapping'', Carlos Nieto, ECE @
+    UCSD (2020)
+  \item ``Object-based SLAM'', Siddharth Choudhary, Robotics @ GT (2017)
+  \item ``Grasp Planning'', Ana Huaman, Robotics @ GT (2016)
+  \item ``Planning in Constraint Space for Multi-body Manipulation
+    Tasks'', Can Erdogan, Robotics @ GT (2016)
+  \item ``Navigation Behavior Design and Representations For a People
+    Aware Mobile Robot System'', Akansel Cosgun, Robotics @ GT (2016)
+  \item ``Model Based SLAM'', Alexander Trevor, Robotics @ GT (2015)
+  \item ``Autonomous environment manipulation to facilitate task
+    completion'', Martin Levihn, Robotics @ GT (2015)
+  \item ``Time-Optimal sampling-based motion planning for manipulators
+    with acceleration limits'', Tobias Kunz, Robotics @ GT (2015)
+  \item ``Multi-Modal Object Tracking'', Changhyun Choi, Robotics @ GT
+    (Aug 2014)
+  \item ``Knowledge Transfer in Robot Manipulation Tasks'', Jake
+    Huckaby, Robotics @ GT (Mar 2014)
+  \item ``Trust and reputation in dynamic, heterogenous multi-agent
+    teams'', Charles Pippin, CS @ GT (Oct 2013)
   \item ``Life-long Mapping and Exploration with a Mobile Robot'',
-    John Rogers, Robotics @ GT (2012)
+    John Rogers III, Robotics @ GT (2012)
   \item ``HRI for Domestic Robots'', Ja-Young Sung, HCC @ GT (2011)
-    (Co-supervisor w. Beki Grinter)
+    (Co-advisor w. Beki Grinter)
   \item ``High Performance Manipulation'', Christian Smith - CS @ KTH
     (Dec. 2009)
   \item ``Semantic SLAM'', Elin-Anna Topp CS @ KTH (Lic. Oct 2006, Oct
@@ -259,13 +324,12 @@
   \item ``Information Fusion'', Ronnie Johansson, CS @ KTH (Lic. -
     Dec. 2003, Apr. 2006)
   \item ``Large Scale SLAM'', John Folkesson, CS @ KTH (Oct 2005)
-  \item ``Architectures for Autonomous Systems'', Anders Oreb{\"a}ck,    CS @ KTH (Dec. 2004)  
-  \item ``Attention Systems'', Ola Ramstr\"om, CS @ KTH (Lic. Nov
-    2004)
-  \item ``Learning in Behaviour Based Systems'', Philipp Althaus, CS @
+  \item ``Architectures for Autonomous Systems'', Anders Oreb{\"a}ck,
+    CS @ KTH (Dec. 2004)
+  \item ``Attention Systems'', Ola Ramstr\"om, CS @ KTH (Lic. Nov 2004)
+  \item ``Learning in Behavior Based Systems'', Philipp Althaus, CS @
     KTH (November 2003)
-  \item ``Structure from Motion'', Marco Zucchelli, CS @ KTH (June
-    2002)
+  \item ``Structure from Motion'', Marco Zucchelli, CS @ KTH (June 2002)
   \item ``A Framework for Integration of Processes'', Lars Petersson,
     CS @ KTH (Mar 2002)
   \item ``Sensor Fusion for Navigation'', Guido Zunino, CS @
@@ -274,8 +338,7 @@
     Issues'', Danica Kragic, CS @ KTH (June 2001)
   \item ``Approaches to Mobile Robot Localisation in Indoor
     Environments'', Patric Jensfelt EE @ KTH (June 2001)
-  \item ``Sonar Based World Modelling'', Olle Wijk.  EE @ KTH (April
-    2001)
+  \item ``Sonar Based World Modelling'', Olle Wijk.  EE @ KTH (April 2001)
   \item ``Towards Human-Robot Interaction'', Kristian Simsarian, CS @
     KTH (Mar. 2000)
   \item ``Architectures for Autonomous Mobile Robot Navigation'',
@@ -285,28 +348,41 @@
   \item ``A Framework for Control of a Camera Head'', Claus
     S. Andersen, EE @ AUC (March 1996)
   \item ``View Planning for Quantification of Local Geometry'', Claus
-    Madsen, EE @ KTH (Oct. 1994).
+    Madsen, EE @ AUC (Oct. 1994).
 \end{enumerate}
 
 \item[Courses taught:]
   \begin{enumerate}
-  \item Industrial Robotics (Professional Education Course @ NIST/DLPE -- 2012)
+  \item Introduction to Robotics (CSE276A -- 2018, 2019)
+  \item Mathematics for Robotics (CSE276C -- 2018, 2019)
+  \item Introduction to Robotics (CSE291D -- 2018)
+  \item Mathematics for Robotics (CSE291G -- 2018)
+  \item Pattern Recognition (CSE 291 -- 2017)
+  \item Pattern Recognition (CS7616 -- 2016)
+  \item Introduction to Robotics - Graduate (CS 7785 -- 2015)
+  \item Industrial Robotics (Professional Education Course @ NIST/DLPE
+    -- 2012)
   \item Software Engineering in Robotics (CS8803 -- 2010)
-  \item Applied Estimation for Robotics (CS8803 -- 2009, 2010, 2012)
-  \item Introduction to Robotics and Perception (CS3630 -- 2008, 2009)
+  \item Multi Disciplinary Robotics Research (CS8750/8751 -- 2009 --2016)
+  \item Applied Estimation for Robotics (CS8803 -- 2009, 2010, 2012, 2013)
+  \item Introduction to Robotics and Perception (CS3630 -- 2008, 2009, 2015)
   \item Mobile Manipulation (CS4632B/8803 -- 2007, 2008)
   \item Freshman Leap - Section Lead (CS1101 -- 2007, 2009)
-  \item Artificial Intelligence -- An Introduction (undergraduate,  2004-2005 @ KTH)
+  \item Artificial Intelligence -- An Introduction (undergraduate,
+    2004-2005 @ KTH)
   \item Behaviour Based Robotics (Graduate, 1998-2004 @ KTH)
   \item Autonomous Systems (undergraduate, 2002-2006 @ KTH)
   \item Urban Robotics (Industrial - Professional Education, 2002 @ KTH)
   \item Autonomous Robots (Industrial - Professional Education, 2000 @  KTH)
   \item Mobile Robotics (Graduate, 1996-1999 @ KTH)
-  \item Computer Vision Techniques and Projective Geometry (Graduate, 1994-1996 @ KTH)
+  \item Computer Vision Techniques and Projective Geometry (Graduate,
+    1994-1996 @ KTH)
   \item Discrete Mathematics (Graduate, 1993-1996 @ AUC)
   \item Expert Systems (Graduate, 1993-1996 @ AUC)
-  \item Analysis and Design of Algorithms and Data-structures (Undergraduate, 1995 @ AUC)
-  \item Expert System Technology (Industrial - Professional Education, 1994 @ AUC)
+  \item Analysis and Design of Algorithms and Data-structures
+    (Undergraduate, 1995 @ AUC)
+  \item Expert System Technology (Industrial - Professional Education,
+    1994 @ AUC)
   \item Biological Vision (Graduate, 1993 @ AUC)
   \item Structured programming (Undergraduate, 1992 @ AUC)
   \item C-programming (Undergraduate, 1991 @ AUC)
@@ -315,23 +391,29 @@
 
 \item[Other Teaching Activities]
   \begin{itemize}
-  \item Supervised or Co-supervised many ($>$60) M.Sc. level projects,
-    many basic and advanced B.Sc. projects ($>30$) in Electronic
+  \item Chair of committee for Masters of Robotics, Engineering, 
+    UC San Diego (2019--)
+
+  \item Chair of Robotics Specialization - Computer Science, UC San
+    Diego (2017--)
+
+  \item Supervised or Co-supervised many ($>$100) M.Sc. level projects,
+    many basic and advanced B.Sc. projects ($>$60) in Electronic
     Engineering, Computer Engineering and Computer Science.
-    
+
   \item Chairman -- Engineering of Computer Based Systems education at
     KTH (adopted- Spring 2000).
-    
+
   \item Chairman of committee for specification of new B.Sc. Electrical
     and Electronic Engineering curriculum at the Faculty of Science and
     Technology, Aalborg University.  The new curriculum was implemented
     from July 1996.
-    
+
   \item Designed and implemented a B.Sc. specialization in E.E.
     entitled ``Industrial Computer Engineering'', Aalborg University, in
     1994.  The specialization was successfully implemented on a trial
     basis (June 1994--July 1996).
-    
+
   \item Coordinator of E.E. Specialization in Computer Engineering (June
     1993--December 1995)
 \end{itemize}
@@ -347,79 +429,109 @@
     % \section{Books}
     \btPrintAll
   \end{btSect}
-  
+
 \item[Book Chapters]
   \begin{btSect}{book-chapters}
     % \section{Book chapters}
     \btPrintAll
   \end{btSect}
-  
+
 \item[Edited Journal Issues]
   \begin{btSect}{journal-issues}
     % \section{Edited Journal Issues}
     \btPrintAll
   \end{btSect}
-  
-\item[Refereed Jour. Papers]
+
+\item[Ref.~Jour.~Papers]
   \begin{btSect}{articles}
-    % \section{Refereed Journal Papers}
     \btPrintAll
   \end{btSect}
-  
-\item[Refereed Conf. Papers]
+
+\item[Ref.~Conf.~Papers]
   \begin{btSect}{conf-papers}
-    % \section{Refereed Conference Papers}
     \btPrintAll
   \end{btSect}
-  
+
 \item[Theses]
   \begin{btSect}{theses}
-    % \section{\bf Theses}
     \btPrintAll
   \end{btSect}
-  
+
+\item[Reports]
+  \begin{btSect}{reports}
+    \btPrintAll
+  \end{btSect}
+
 \end{cvlist}
 
 \begin{cvlist}{Keynote / Plenary Presentations}
 \item
   \begin{enumerate}
-  \item ``Robust multi-robot mapping and exploration'', SPIE DSS12
-    Micro-Nanotechnology Sensors, Systems, and Applications
-    Conference, Baltimore, April 2013.
+  \item ``Impact of AI Research'', {\em Congressional Briefing}, Washington DC, December 2019
+  \item ``Autonomous Driving Vehicles'', {\em AAA Summit}, San Diego, November 2019
+  \item ``Robotics and AI'', {\em Collaborative Robotics, AI and VIsion}, San Jose, November 2019
+  \item ``A Perspective on Robotics'', General Electric Leadership Summit, New York, October 2019
+  \item ``Human-Robot Collaboration'', ISRR, Hanoi, October 2019
+  \item ``A Perspective on AI'', Danish Innovation Fund, September 2019
+  \item ``Exploration and mapping by mixed human-robot teams'', {\em IEEE Intl. Symp. on Safety, Security and Rescue Robotics},
+      Wurzburg, Sept. 2019. 
+  \item  ``Advances in Robotics'', {\em A.T. Kearney CEO Forum}, Mallorca - Spain, July 2019
+  \item ``A perspective on Robotics'', {\em RSS Pioneer Keynote}, Freiburg, June 2018
+  \item ``What to expect for 2020?'', {\em Robot Summit 2019}, Boston, June 2019
+  \item ``A Perspective on consumer robotics'', {\em Consumer Technology Association}, San Francisco, May 2019
+  \item ``AI for Even Better Robots'', {\em LG Keynote at CES}, Las Vegas, Jan 2019
+  \item ``Robots, Fog and Clouds in a New Economy'', {\em ROS-Industrial 2018}, Stuttgart, Dec 2018
+  \item ``The New Robot Economy'', {\em New York Stock Exchange}, Oct 2018
+  \item ``Multi-Modal Processing for Intelligent Systems'', {\em IEEE Intl. Conf on Multi-Media}, San Diego, CA, Jul 2018
+  \item ``Semantics for Mobile Robots'', {\em IEEE Semantic Computing}, Riverside, CA, Feb 2018
+  \item ``A perspective on service robotics'', {\em ISRR 2017}, Puerto Varas, Chile, Dec 2017
+  \item ``Robotics in China'', {\em US China Commission}, Washington DC, March 2017 (testimony)
+  \item ``Opportunities and Challenges in Robotics'', {\em MARS}, Palm Springs, March 2017
+  \item ``A perspective on robotics'', {\em RoboUniverse}, San Diego,  December 2016
+  \item ``A vision for robotics'', {\em CTO Forum}, Half Moon Bay, November 2016
+  \item ``Metrology for the new industry'', Zeiss Forum, Detroit,  November 2016
+  \item ``A perspective on manufacturing'', {\em IEEE Futures Forum},  October 2016
+  \item ``The Future of Everything'', {\em US-Austria Summit},  September, 2016
+  \item ``A Roadmap to the future'', {\em RoboBusiness-2016}, Odense,  June 2016
+  \item ``An Overview of Collaborative Robots'', RIA Collaborative Robotics Symposium, Boston, May 2016
+  \item ``A perspective on robotics'', CUNY Lectures on Design and Technology, April 2016
+  \item ``Robot Opportunities with a Focus on Asia'', CLSA, Tokyo,  Dec. 2015
+  \item ``Collaborative Robotics - A Perspective'', RIA/Collaboraitve Robotics Workshop, Pittsburgh, Oct 2015.
+  \item ``A perspective on robotics'', Carnegie, Copenhagen, Oct. 2015
+  \item ``Futures of Manufacturing'', ConfigIt Summit, Georgia, Sep 2015
+  \item ``2D and 3D Vision for Robotics'', {\em ICVS-2015}, Copenhagen, Jul. 2015
+  \item ``Vision based robotics'', BAU Futures of Robotics, Istanbul, Jun. 2015
+  \item ``'Collaborative Robotics'', ISR/Automate 2015, Chicago, March 2015
+  \item ``The Future of Fabrication'', IEEE {\em Time Symposium}, San Jose, October 2014
+  \item ``A perspective on collaborative robotics'', {\em RIA Collaborative Robotics}, San Jose, October 2014
+  \item ``Robot Dreaming'', {\em CLSA Asian Forum}, Hong Kong, Sep 2014
+  \item ``The confluence of robotics and automation'', {\em CASE Keynote}, Taipei, August 2014
+  \item ``Collaborative Robotics'', RIA Workshop, Boston, April 2014
+  \item ``Future opportunities in Robotics'', {\em Economic Forum}, Tokyo, March 2014
+  \item ``Cognitive Robotics'', Karles Invitational, {\em Navy Research Laboratory}, January 2014
+  \item ``A perspective on the future of robotics'', {\em GE Leadership Conference on Robotics}, Albany, Dec 2013.
+  \item ``Design of cooperative robot systems''. UT Arlington {\em Distinguished Engineering Lecture}, Dec. 2013.
+  \item ``Economic driver for robotics'', {\em Robot Business}, St. Monica,  Oct. 2013
+  \item ``Robots for Everyone'', {\em TEDxEmory}, Atlanta, April, 2013
   \item ``Examples of next generation robot systems'', 5th Annual IEEE
     International Conference on Technologies for Practical Robot
     Applications (TePRA), Boston, April 2013.
-  \item ``The impact of robotics on economic growth'',
-    Automate/ProMAT, Chicago, IL, Jan 2013.
-  \item ``A perspective on robotics'', IROS - International Research
-    Panel, Oct 2012.
-  \item ``Robotics and autonomous cars'', AUVSI Driverless cars
-    symposium, Detroit, June 2012
-  \item ``Setting an agenda for robotics'', Dutch Government
-    Conference, Amsterdam, June 2012.
-  \item ``A vision for robotics'', USC Futures of Robotics Symposium,
-    Los Angeles, CA.  Dec. 2011
-  \item ``A vision for the future of robotics", Intl. Symposium on
-    Robot Systems, San Francisco, CA, Oct 2011
-  \item ``A Roadmap for Robotics'', National Science Foundation,
-    Washington DC, June 2010.
-  \item ``A Vision for US Robotics'', Booz Allen Hamilton -
-    Distinguished Lecture, Washington DC, April 2010.
-  \item ``Cognitive systems and a vision for the road ahead'', IRT
-    Symposium, Tokyo, May 2010.
-  \item ``A Robotics Roadmap for the Future'', AUVSI Annual Meeting,
-    Huntsville, AL, Mar 2010.
-  \item ``A US Roadmap for Robotics'', The Netherlands Office for
-    Science and Technology Annual Conference, The Hague, Nov 2009.
-  \item ``Leonardo Da Vinci - Machines \& Robots'', High Museum of
-    Modern Art, Atlanta, GA, June 11, 2009
-  \item ``Robotics Roadmap: Internet to Robotics'', US Congressional
-    Caucus, Washington, DC, May 23, 2009.
-  \item ``Human Augmented Mapping'', Franklin Symposium to honor
-    Dr. Ruzena Bajcsy, University of Pennsylvania, Philadelphia,
+  \item ``The impact of robotics on economic growth'', {\em Automate/ProMAT}, Chicago, IL, Jan 2013.
+  \item ``A perspective on robotics'', IROS - International Research  Panel, Oct 2012.
+  \item ``Robotics and autonomous cars'', {\em AUVSI Driverless cars symposium}, Detroit, June 2012
+  \item ``Setting an agenda for robotics'', Dutch Government  Conference, Amsterdam, June 2012.
+  \item ``A vision for robotics'', USC Futures of Robotics Symposium, Los Angeles, CA.  Dec. 2011
+  \item ``A vision for the future of robotics", Intl. Symposium on Robot Systems, San Francisco, CA, Oct 2011
+  \item ``A Roadmap for Robotics'', National Science Foundation,  Washington DC, June 2010.
+  \item ``A Vision for US Robotics'', Booz Allen Hamilton -  Distinguished Lecture, Washington DC, April 2010.
+  \item ``Cognitive systems and a vision for the road ahead'', IRT  Symposium, Tokyo, May 2010.
+  \item ``A Robotics Roadmap for the Future'', AUVSI Annual Meeting, Huntsville, AL, Mar 2010.
+  \item ``A US Roadmap for Robotics'', The Netherlands Office for Science and Technology Annual Conference, The Hague, Nov 2009.
+  \item ``Leonardo Da Vinci - Machines \& Robots'', High Museum of Modern Art, Atlanta, GA, June 11, 2009
+  \item ``Robotics Roadmap: Internet to Robotics'', US Congressional Caucus, Washington, DC, May 23, 2009.
+  \item ``Human Augmented Mapping'', Franklin Symposium to honor Dr. Ruzena Bajcsy, University of Pennsylvania, Philadelphia,
     PA. April 2009.
-  \item ``From Internet to Robotics'', Schunk Expert Days, Stuttgart,
-    Germany, February, 2009.
+  \item ``From Internet to Robotics'', Schunk Expert Days, Stuttgart, Germany, February, 2009.
   \item ``Mobile Manipulation Systems'', {\em Intl. Conf on Control
     and Automation Systems}, Seoul, Korea, October 2008.
   \item ``Evaluation of Ground Robots for Military Use'', {\em
@@ -475,6 +587,13 @@
   H.I. Christensen, GT Invention 5162
 \item Mapping with Virtual Measurements, J. G. Rogers, A. Trevor and
   H. I. Christensen, GT Invention 5160
+\item  Optical Measurements of Drilled Holes, K. Hatzilias, H. Bergman,
+  \& H. I. Christensen, US Patent 8,842,273
+\item  A method for relieve confusion in Alzheimer patients based on
+  in-Ear EEG monitoring, H. I. Christensen \& T. Anderson
+  (Provisional 2016)
+\item Robotic Destination Dispatch Sytem for Elevators and Methods for
+  Making and Using Same, A. Cosgun \& H. I. Christensen, 2018
 \end{cvlist}
 
 % -------------------------------------------------------------
@@ -484,14 +603,21 @@
 \begin{cvlist}{Professional Service}%
 \item {\bf Academic Community Service}
   \begin{itemize}
+  \item Data Ethics Expert Group - Danish Department of Commerce \cftdotfill{\cftdotsep}
+    Jan -- October 2018
+  \item World Robotics Summit - Advisory Board (NEDO)
+    \cftdotfill{\cftdotsep} 2016--
+  \item National Research Council / National Academies - Panel on
+    ``Automation / IT and it impact on Employment''
+    \cftdotfill{\cftdotsep} 2015-2017
   \item Founder and Coordinator of US Robotics Virtual Organization
-    \cftdotfill{\cftdotsep} 2012--
+    \cftdotfill{\cftdotsep} 2012--2016
   \item Member of College Industry Council on Material Handling\\
     Education (CICHME) w. Material Handling Industry of America
-    \cftdotfill{\cftdotsep} 2012--2015
+    \cftdotfill{\cftdotsep} 2012--2014
   \item Member of Board - Danish Foundation for Strategic Research -\\
-    Strategic Growth Technologies \cftdotfill{\cftdotsep} 2011-2013
-  \item Chair of CCC roadmapping committee for formulation of \\
+    Strategic Growth Technologies \cftdotfill{\cftdotsep} 2011-2014
+  \item Chair of CCC road-mapping committee for formulation of \\
     a national strategy for robotics \cftdotfill{\cftdotsep}
     2008--2009
   \item Member of academic board for KTH \cftdotfill{\cftdotsep}
@@ -507,10 +633,17 @@
 
 \item {\bf Involvement with professional organizations}
   \begin{itemize}
-  \item Robot Industry Association (RIA) - Board Member at Large (2013-2015)
-  \item IEEE Senior Member (2008-), Member (1988--2007), Computer
-    Society, and Robotics and Automation Society.
+  \item Robot Industry Association (RIA) - Board Member at Large
+    \cftdotfill{\cftdotsep} 2013-2016
+  \item RIA Committee on AI \cftdotfill{\cftdotsep} 2018--
+  \item IEEE liaison with Congressional Caucus on Robotics
+    \cftdotfill{\cftdotsep}  2015--2019
+  \item IEEE Fellow \cftdotfill{\cftdotsep} 2015\\
+    Senior Member   \cftdotfill{\cftdotsep} 2008--2014\\
+    Member \cftdotfill{\cftdotsep}    1988--2007\\
+    Computer Society, and Robotics and Automation Society.
     \begin{itemize}
+    \item IEEE Fellow Selection Committee \cftdotfill{\cftdotsep} 2017--
     \item RAS TAB Member at Large \cftdotfill{\cftdotsep} 2008--2009
     \item RAS Award Nominations Co-Chair \cftdotfill{\cftdotsep} 2008,
       2009
@@ -523,18 +656,32 @@
     Pattern\\ Recognition, Secretary \cftdotfill{\cftdotsep}
     1989--1994
   \item Founding chairman of the Danish Silicon Graphics \\Users Group
-    \cftdotfill{\cftdotsep} 1993--199
+    \cftdotfill{\cftdotsep} 1993--1995
   \item Co-editor of UN/IFR World Robotics --- Section on
     Service\\ Robotics (w. Martin H\"agele \& Jan Karlsson)
     \cftdotfill{\cftdotsep} 2002-2003
   \end{itemize}
 
 \item {\bf Campus Service}
-\begin{itemize}
+  \begin{itemize}
+  \item HDSI Senior Recruiting Committee  \cftdotfill{\cftdotsep} 2019--
+  \item MSCOM member \cftdotfill{\cftdotsep} 2017--
+  \item Robotics Area Hiring Chair \cftdotfill{\cftdotsep} 2017 --
+  \item CSE Robotics Concentration Co-Chair \cftdotfill{\cftdotsep}
+    2017 --
+  \item Robotics Area Chair (IC/CoC) \cftdotfill{\cftdotsep} 2015-2016
+  \item Devices Thread Coordinator (CoC) \cftdotfill{\cftdotsep} 2015-2016
+  \item Member of CoC Dean 5 year review committee
+    \cftdotfill{\cftdotsep} 2015
+  \item PhD Recruiting Chair, SIC \cftdotfill{\cftdotsep} 2014, 2015
+  \item Member of AE faculty hiring committee \cftdotfill{\cftdotsep}
+    2013-2014
+  \item Member of ISYE Coca-Cola Chair Search Committee
+    \cftdotfill{\cftdotsep} 2013-2014
   \item Member of External Faculty Board, Georgia Tech Manufacturing\\
-    Institute \cftdotfill{\cftdotsep} 2012--2013
-  \item Member of Interrim Steering Committee for Institute for Big \\Data
-   ~ \cftdotfill{\cftdotsep} 2012--2013
+    Institute \cftdotfill{\cftdotsep} 2012--2014
+  \item Member of Interim Steering Committee for Institute for Big
+    \\Data ~ \cftdotfill{\cftdotsep} 2012--2013
   \item Chair Search Committee for Chair of School of Computer\\
     Science, CoC, \cftdotfill{\cftdotsep} 2011--2012
   \item HUSCO-Ramierez Search Committee, School of Mechanical\\
@@ -548,7 +695,7 @@
     Computing, \cftdotfill{\cftdotsep} 2009
   \item Member of Selection Committee for Senior Vice Provost for \\
     Research and Innovation (SVPRI), \cftdotfill{\cftdotsep} 2007
-\end{itemize}
+  \end{itemize}
 
 \item {\bf Reviews for conferences and journals}
   \begin{itemize}
@@ -563,19 +710,19 @@
     Intelligence.
   \item Intl. Conf. on Patt. Rec., Technical Program Committee,
     Istanbul, August, 2010.
-  \item Robotics Science and Systems, Associate Editor, Zaragosa, Jun
+  \item Robotics Science and Systems, Associate Editor, Zaragoza, Jun
     2010.
   \item Intl. Conf on Robotics and Automation, Associate Editor, Kobe,
     JP, May 2009
-  \item BioRobotics 2006, PC member, Pisa, February 2006. 
+  \item BioRobotics 2006, PC member, Pisa, February 2006.
   \item International Symposium on Robot Systems (IROS), PC-member, Sendai,
     September 2004.
   \item Intl Symposium on Robotics, member of programme committee,
-    Paris, June 2004. 
-  \item Information Fusion 2004, PC-member, Stockholm, June 2004. 
+    Paris, June 2004.
+  \item Information Fusion 2004, PC-member, Stockholm, June 2004.
   \item Intl. Conf on Robotics and Automation, member of
-    prog. committee, Sendai, May 2004. 
-  \item Intl Conf on Robotics and Automation, Member of Programme
+    prog. committee, Sendai, May 2004.
+  \item Intl. Conf on Robotics and Automation, Member of Programme
     Committee, Taiwan, Sept. 2003.
   \item Multi-Sensory Fusion, MFI-2003, Member of Programme Committee,
     NINII, Tokyo, July 29-August 1, 2003.
@@ -591,7 +738,7 @@
   \item Scandinavian Conference on Artificial Intelligence, Member of
     PC, Odense, Denmark, February, 2001.
   \item International Conference on Robot Systems (IROS), Member of
-    Programme Committee,  Tokyo, Japan, October 2000. 
+    Programme Committee,  Tokyo, Japan, October 2000.
   \item International Conference on Pattern Recognition, Member of
     Programme Committee, Barcelona, August 2000.
   \item Intelligent Autonomous Systems -- 6, Member of
@@ -636,25 +783,33 @@
 
 \item {\bf Professional reviews}
   \begin{itemize}
-  \item Project and lecture reviewer at Faculty of Engr., University
-    of Trondheim, Norway, 1994--1997.
-  \item Served on professional appointment committees in Denmark,
-    Spain, Sweden, Norway, United Kingdom, Belgium, Italy, France,
-    Germany, Switzerland, South Korea, and U.S.A.
+  \item Review of Graduate Programs, Faculty of Engr., Aalborg University, Aug 2018.
+  \item Project and lecture reviewer at Faculty of Engr., University of Trondheim, Norway, 1994--1997.
+  \item Served on professional appointment committees in Denmark, Spain, Sweden, Norway, United Kingdom, Belgium, Italy, France,
+    Germany, Switzerland, South Korea, UAE, and U.S.A.
   \end{itemize}
 \item {\bf Reviews for funding agencies}
- \begin{itemize}
- \item EU Cognitive Systems, IP Reviewer, \cftdotfill{\cftdotsep}, 2013--
- \item NSF Expedition Panel (phase II), \cftdotfill{\cftdotsep},  Spring 2012
- \item SSF Successful Research Leaders - Sweden, \cftdotfill{\cftdotsep} Spring 2011
+  \begin{itemize}
+  \item DFG - SFB Panel in Robotics / Embedded Systems,
+    Bonn,\cftdotfill{\cftdotsep} Jun 2018
+  \item EPSRC UK Robotics and Artificial Intelligence Hubs in Extreme
+    and Challenging Environments \cftdotfill{\cftdotsep} Jun. 2017
+  \item EPSRC UK Robotics Research  \cftdotfill{\cftdotsep} Jan. 2017
+  \item Italian Institute of Technology (RPT) \cftdotfill{\cftdotsep}
+    Jun. 2015
+ \item JST - ERATO Selection Committee \cftdotfill{\cftdotsep} Jan. 2014
+ \item EU Cognitive Systems, IP Reviewer, \cftdotfill{\cftdotsep}, 2013
+ \item NSF Expedition Panel (phase II), \cftdotfill{\cftdotsep},
+   Spring 2012
+ \item SSF Successful Research Leaders - Sweden,
+   \cftdotfill{\cftdotsep} Spring 2011
  \item US Army Basic Research Review Panel, \cftdotfill{\cftdotsep} July 2010
- \item SSF Future Research Leaders - Sweden, \cftdotfill{\cftdotsep}  June 2010
- \item High Technology Foundation - Denmark, \cftdotfill{\cftdotsep} May 2010
+ \item SSF Future Research Leaders - Sweden, \cftdotfill{\cftdotsep} June 2010, June 2013
+ \item High Technology Foundation - Denmark, \cftdotfill{\cftdotsep}  May 2010
  \item NSF ad-hoc project reviews \cftdotfill{\cftdotsep}, 2009--
- \item NSF IGERT Panel, \cftdotfill{\cftdotsep} May/June 2009. 
- \item NSF Computer Infrastructure Grant Panel, \cftdotfill{\cftdotsep}  Nov. 2008
- \item Army Research Laboratory, Basic Research Review,
-   \cftdotfill{\cftdotsep}  Spring 2008
+ \item NSF IGERT Panel, \cftdotfill{\cftdotsep} May/June 2009.
+ \item NSF Computer Infrastructure Grant Panel,  \cftdotfill{\cftdotsep} Nov. 2008
+ \item Army Research Laboratory, Basic Research Review, \cftdotfill{\cftdotsep}  Spring 2008
  \item Adviser/Expert to EU DG-III Long Terms Research Office in the\\
    areas of ``robotics'' and ``computational vision''
    \cftdotfill{\cftdotsep}  1995--2006
@@ -680,17 +835,22 @@
  \end{itemize}
 \end{cvlist}
 
-\begin{cvlist} {\bf Editorial Leadership}
+\begin{cvlist} {\bf Editorial Leadership} 
+  \item Associate Editor for {\em Science Robotics}, \cftdotfill{\cftdotsep} 2017--
+  \item Chair Advisor board for {\em IEEE Transactions on Automation
+    Science\\ and Engineering (T-ASE)}  \cftdotfill{\cftdotsep} 2014--2015
+  \item Co-editor-in-chief for {\em Briefs in AI}, Atlantic Press,
+    \cftdotfill{\cftdotsep}  2015--2018
   \item Advisor board for {\em IEEE Transactions on Automation
-    Science\\ and Engineering (T-ASE)} \cftdotfill{\cftdotsep} 2013--
+    Science\\ and Engineering (T-ASE)} \cftdotfill{\cftdotsep} 2013--2014
   \item Senior Advisory Board {\em Journal of Human-Robot Interaction}
-    \cftdotfill{\cftdotsep} 2012--
+    \cftdotfill{\cftdotsep} 2012--2016
   \item Co-Editor in Chief of {\em Trends and Foundations in
     Robotics}, \cftdotfill{\cftdotsep} 2009--
   \item Editorial Board of {\em Advanced in Interaction
     Studies},\cftdotfill{\cftdotsep} 2010--
   \item Associate Editor of {\em Image and Vision
-    Computing},\cftdotfill{\cftdotsep} 2009--
+    Computing},\cftdotfill{\cftdotsep} 2009--2015
   \item Associate Editor of {\em Service Robotics},
     \cftdotfill{\cftdotsep} 2005--2010
   \item Associate Editor of {\em Autonomous Robots},
@@ -698,7 +858,7 @@
   \item Associate Editor of {\em International Journal of Robotics
     Research},\cftdotfill{\cftdotsep} 2002--
   \item Associate Editor of ``Springer Tracts in Advanced
-    Robotics'',\cftdotfill{\cftdotsep} 2001--
+    Robotics'',\cftdotfill{\cftdotsep} 2001--2015
   \item Associate Editor of MIT Press series on ``Intelligent Robotics
     and Autonomous\\ Agents'',\cftdotfill{\cftdotsep} 1997--
   \item Associate Editor of AAAI {\em AI
@@ -713,19 +873,36 @@
   \item Associate Editor {\em Robotics and Autonomous Systems}
     journal, Elsevier, \\Competition Corner, \cftdotfill{\cftdotsep}
     1999--2002
-\end{cvlist} 
+\end{cvlist}
 
 \begin{cvlist}{Leadership in organisation of meetings:}
-\item IDEAS - Surgical WS, Harvard Medical School, Co-organizer,
-  \cftdotfill{\cftdotsep} Apr. 2013
-\item Schunk Expert Days, Co-Chair, Lauffen, DE,
+\item ISRR-2019 - Co-organizer, Hanoi \cftdotfill{\cftdotsep}
+  Oct 2019
+\item ICRA-2018 - Government Forum Co-Chair \cftdotfill{\cftdotsep}
+  June 2018
+\item ICRA-2017 - US Program Co-Chair, Singapore
+  \cftdotfill{\cftdotsep} May 2017
+\item ISRR-2015 - US Chair, Italy \cftdotfill{\cftdotsep} Sep. 2015
+\item 5th IDEAS - Surgical Robotics WS, Harvard Medical School,
+  Co-organizer, \cftdotfill{\cftdotsep} Mar. 2015
+\item IAS-13, Steering Committee, Venice, \cftdotfill{\cftdotsep}
+  Jul. 2014
+\item 4th IDEAS - Surgical Robotics WS, Harvard Medical School,
+  Co-organizer, \cftdotfill{\cftdotsep} Apr. 2014
+\item 8th Schunk Expert Days, Co-Chair, Lauffen, DE,
+  \cftdotfill{\cftdotsep} Feb 2014
+\item ISRR-2013, Finance/US Chair, Singapore, \cftdotfill{\cftdotsep}
+  Dec. 2013
+\item 3rd IDEAS - Surgical Robotics WS, Harvard Medical School,
+  Co-organizer, \cftdotfill{\cftdotsep} Apr. 2013
+\item 7th Schunk Expert Days, Co-Chair, Lauffen, DE,
   \cftdotfill{\cftdotsep} Feb 2013
 \item IROS-2012, Senior Program Committee,
   Portugal,\cftdotfill{\cftdotsep} Oct. 2012
 \item IAS-12, Regional Program Chair, Seoul, Korea,
   \cftdotfill{\cftdotsep} Aug. 2012
 \item ICRA-2012, General Co-Chair, \cftdotfill{\cftdotsep} May 2012
-\item IDEAS Symposium, Co-organizer, Harvard Medical School,
+\item 2nd IDEAS Symposium, Co-organizer, Harvard Medical School,
   \cftdotfill{\cftdotsep} April 2012
 \item IROS-2011, Special Symposium Committee, \cftdotfill{\cftdotsep}
   Oct. 2011
@@ -830,7 +1007,7 @@
   Aug. 1992.
 \item SPIE Applications of Artificial Intelligence X: Machine Vision
   and Robotics, \\ Programme Committee, Organiser and chairman of
-  session on\\ "How to Design a Robot Head". Orlando,
+  session on\\ ``How to Design a Robot Head''. Orlando,
   \cftdotfill{\cftdotsep} April 1992.
 \item 7th Scandinavian Conference on Image Analysis. \\Chair of Local
   Arrangements. Aalborg, \cftdotfill{\cftdotsep} Aug. 13--16, 1991.
@@ -851,14 +1028,48 @@
   Dec. 15--17, 1986.
 \end{cvlist}
 
-\begin{cvlist}{Research Grants:}  
+\begin{cvlist}{Research Grants:}
+\item ONR: DURIP - Instrumentation for the AeroDrome (\$500k, Co-PI)
+\item LGe: ROS 2.0 Service Robot (\$150k, 2019), PI   
+\item RPD Innovation: Robotics and Artificial Intelligence (AI) System for 
+  Industry 4.0, (\$574k, 2019-2020), PI 
+\item SPAWAR: Intelliegnt Diagnostics of V-22 Osprey (\$1M, 2020), Co-PI   
+\item SPAWAR: Data Science Support for SPAWAR 4.0 Logistics (\$500k,
+  2018-2020), PI
+\item TuSimple - Assessment of Level 4 Autonomy in Trucks,  (\$250k,
+  2018-2019), PI
+\item ARL: Autonomous Resilient Cognitive Heterogeneous Swarms
+  (DCIST) - (\$6.3M, 2018-2023), UCSD PI
+\item LGe: Tools for embedded robots development (\$125k, 2017), PI
+\item Qualcomm: Long-Term Autonomy (\$80k, 2017), PI
+\item NSF: NRI:Workers, Firms, and Industries in Robotic Regions
+  (\$784k, 2016-2017), Co-PI
+\item NSF: Revision of the national robotics roadmap (\$35k, 2016), PI
+\item Boeing: Fixture Less Machining (\$200k, 2016-2017), PI
+\item Boeing: Assembly Inspection using Augmented Reality (\$49k,
+  2015), PI
+\item Thyssen Krupp: Robot Control for Elevators, (\$80k, 2014-2015), PI
+\item Boeing: Augmented Reality (\$49k, 2014)
+\item NSF: NRI: Representing and Anticipating Actions in Human-Robot
+  Collaborative Assembly Tasks (\$800k, 2014-2016), Co-PI.
+\item NSF: NRI PI Meeting (\$114k, 2014), PI
+\item NSF: EAGER - Physical Flow and other Industrial Challenges,
+  (\$300k, 2014-2015), Co-PI
+\item NSF: Opportunities in Manufacturing, Robotics and Computer Science
+  (\$48k, 2013-2014), PI
+\item Boeing: High precision robot manufacturing (\$600k, 2013-2015), PI
+\item Boeing: Vision for Augmented Reality (\$17k, 2013), PI
+\item NSF: NRI PI Meeting (\$104k, 2013), PI
 \item Micro Autonomous Systems Technology - Army Research Laboratory
-  CTA: Autonomy (2013-2016) - PI for GT (\$1.5M). Lead UPENN (Total \$20M) % $2M (GT), 10m in total 
+  CTA: Autonomy (2013-2017) - PI for GT (\$1.9M). Lead UPENN (Total
+  \$20M) % $2M (GT), 10m in total
 \item PSA: Robotics for Automotive Assembly (\$910k, 2013-2015), PI
-\item BMW; Support on the Shop-Floor Using Modern Robots (\$750k, 2012-2015), Co-PI
-\item NIST: Robots for Kitting (\$120k. 2012-2014). PI
+\item BMW; Support on the Shop-Floor Using Modern Robots (\$750k,
+  2012-2015), Co-PI
+\item Mitsui/Motoman: Laboratory Automation (\$164k, 2012-2014), PI
+\item NIST: Robots for Kitting (\$99k. 2012-2014). PI
+\item Boeing: Wing Assembly (\$1.4M, 2011-2014), PI
 \item NSF: Robotics Virtual Organization (\$100k, 2011-2013), PI
-\item Boeing: Wing Assembly (\$1.6M, 2011-2014), PI
 \item NSF: Motion Grammer Laboratory - Equipment Grant (\$330k, 2011-2013), Co-PI
 \item Boeing: UGV Navigation for OmniMove (\$146k, 2010), PI
 \item MSR: Computer Vision Library for RDS (\$25k, 2010), PI
@@ -871,10 +1082,12 @@
 \item Boeing: Factory of the Future - Robotics (\$700k, 2008-2014), PI
 \item KUKA: UGV Survey, KUKA Roboter, Germany, Oct. 2008 (\$6k)  PI% 18k$
 \item Micro Autonomous Systems Technology - Army Research Laboratory
-  CTA: Autonomy (2008-2013) - Co-PI for GT (\$4M). Lead UPENN (Total \$33M) % $2M (GT), 10m in total 
-\item CCC: From Internet to Robotics: The Next Transformational Technology (\$200k, 2008-2009), PI % $200k
+  CTA: Autonomy (2008-2013) - Co-PI for GT (\$4M). Lead UPENN (Total \$33M) % $2M (GT), 10m in total
+\item CCC: From Internet to Robotics: The Next Transformational
+  Technology (\$200k, 2008-2009), PI % $200k
 \item KUKA: Unlayering, KUKA Roboter, Germany, Jul. 2008 (\$18k) % 18k$
-\item KUKA: Exploratory research on diagnostics and navigation, KUKA Roboter, Germany, Spring 2008 (\$55k)% 55k$
+\item KUKA: Exploratory research on diagnostics and navigation, KUKA
+  Roboter, Germany, Spring 2008 (\$55k)% 55k$
 \item CEC: CoSy - Cognitive Systems for Cognitive Assistants, IP
   Project, Coordinator (11M EUR, 2004-2008)
 \item VR: Multi-Modal Mapping (1.7M SEK, 2006-2008), PI.% 1.7 MSEK
@@ -885,7 +1098,7 @@
 \item CEC: EURON-II -- EU Network of excellence within ``beyond
   robotics''  -- Coordinator (5.8M EUR, 2004-2007) % 5.8 MEuro
 \item SSF, Autonomous Systems, Principal Investigator -- Director  (7
-  M SEK, 2003--2006) % 20 MSEK 
+  M SEK, 2003--2006) % 20 MSEK
 \item FMV: Intelligent Unmanned Vehicles, Technology Demonstrator,
   Coordinator, (8M SEK, 2001-6). % 8000 KSEK
 \item FMV: UGV control using the universal control station, 2005 (200k
@@ -921,25 +1134,25 @@
   and local manager (1.4M EUR, 1996--1997).% 120 kECU / Total 1.4 MECU
 \item CEC: TMR Network on ``Sensory Mobile Autonomous Robot Technology
   II'', Co-proposer and local manager.  (2.3M EUR, 1996--1997).% 200
-  % kECU / TOTAL 2.3 MECU 
+  % kECU / TOTAL 2.3 MECU
 \item Danish Technical Research Council: ``Reconstruction and
   Visualisation of 3D Structures based on In-vivo Image Analysis'',
   Principal Investigator (1.014M DKK, 1995--1998).% 1014 KDKK
 \item EEC: European Network of Excellence in Computer Vision,
   Co-proposer and Principal Investigator (2M EUR, 1994--1998).% 2MECU
-\item EEC: HCM Network on "RETINA: Active Vision", Co-proposer and
+\item EEC: HCM Network on ``RETINA: Active Vision'', Co-proposer and
   local manager.  (3M EUR, 1994--1997).% 170 kECU-AUC / Total 3MECU
 \item LUKAS/SPIN: Software Process Improvement Network. Funded by EU
   and Regional Council for North Jutland. Member of Board and
   Principal Investigator (8M DKK, 1995--1996).% 8 MDKK
 \item EEC: HCM Network on "Sensory Mobile Autonomous Robot
   Technology", Co-proposer and local manager.  (2.9M EUR,
-  1993--1995).% 210 kECU / Total 2.9 MECU 
+  1993--1995).% 210 kECU / Total 2.9 MECU
 \item DOAP: Data Acquisition, - Analysis, and Presentation, LUKAS --
   Regional Development Fund, North Jutland Regional Council,
   Co-Proposer and Technical Coordinator. (6M DKK, 1993--1995). Member
   of  Executive Board for the LUKAS software quality assurance project
-  (1994--1995).% 6 MDKK 
+  (1994--1995).% 6 MDKK
 \item EEC: Vision as Process-II, P-7108-VAP-II, Co-proposer and local
   manager (3M EUR, 1992--1995).% 3MECU
 \item NorFa: Nordic Research Network on Computer Vision, Co-proposer
@@ -952,32 +1165,45 @@
 \end{cvlist}
 
 \begin{cvlist}{Gifts:}
+\item LGe: Next Generation Home Robots (\$120k, 2019-2020)
+\item Qualcomm/UCSD: Digital Collaboratory in Smart Transportation
+  (\$350k, 2017-2018)
+\item Honda, Collaborative Robotics (\$50k, 2018, 2019)
+\item Northrup Grumman Group, AUS systems (\$100k, 2018)
+\item Qualcomm: Contextual Robotics (\$800k, 2017-2018)
+\item Qualcomm: Long-term autonomy (\$125k, 2017)
+\item Kelly Family: \$20k grant for distinguished lecture series on
+  robotics and employment (2015-2016)
+\item Intel: \$10k equipment donation (2015)
 \item National Instruments: \$80k equipment donation (2011-2012).
-\item Coca Cola Bottling Company: \$1M equipment donation for setup of
+\item Coca Cola Bottling Company: \$2M equipment donation for setup of
   a logistics laboratory (2011).
 \item Private Donation: \$5k award money for the Dick Volz PhD Award
   (2011)
 \item General Motors: \$12k for promotion of next generation
   manufacturing (2010)
+\item KUKA: Endowment (\$1.5m, 2016)
 \end{cvlist}
 
-
 \begin{cvlist}{Honors and Awards:}
+\item Elected Fellow, Institute of Electrical and Electronic Engineers (2015)
+\item Honorary Doctorate in Engineering (Dr. Techn. h.c.), Aalborg University (2014)
+\item Elected Fellow, American Association for the Advancement of Science (2013)
 \item Boeing Supplier of the Year Award (2012)
 \item Dean's Award, College of Computing, GT (2012)
 \item {\em The Joseph Engelberger Award}, Robot Industry Associations (RIA - 2011)
 \item Outstanding Innovation in Research, Faculty Award, Georgia Tech (2011)
-\item Member of NSF CISE Advisory Board (2011-2013)
+\item Member of NSF CISE Advisory Board (2011-2015)
 \item Member of Robotics Technology Consortium (RTC) Board (2011-2014)
-\begin{sublist}
-\item CTO / Senior Technology Seat (2013-2014)
-\end{sublist}
-\item Named IEEE Senior Technical Expert (2009--2012) 
+  \begin{sublist}
+  \item Senior Technology Seat/CTO (2013-2014)
+  \end{sublist}
+\item Named IEEE Senior Technical Expert (2009--2012)
 \item Peter Freeman Award, College of Computing, GT (2008)
-\item Elected Senior Member of IEEE (2008--)
-\item Member of Advisory Board - Bio-Robotics Prog. Univ. of Utah (2008--)  
+\item Elected Senior Member of IEEE (2008--2014)
+\item Member of Advisory Board - Bio-Robotics Prog. Univ. of Utah (2008--2013)
 \item Member of Advisory Board - NSF Ctr. Quality of Life Technology,
-  CMU (2007--)
+  CMU (2007--2014)
 \item IEEE RAS Distinguished Lecturer in Robotics (2004-2006)
 \item Member of Scientific Advisory Board, Robotics Institute, CMU.  (2004--)
 \item Elected Officer of International Foundation of Robotics Research
@@ -985,24 +1211,30 @@
   \begin{sublist}
   \item There are at anytime only 24 officers -- 8 from US, Asia and Europe,
     respectively.
-  \item Secretary for Technical Activities - Executive Officer (2010--)
+  \item Treasurer/Secretary for Technical Activities - Executive Officer (2010--)
   \end{sublist}
 \item ICRA-2004 Short-listed for best vision paper ``Measurement
-  Errors in Visual Servoing'' authored by V. Kyrki, D. Kragic and H.
-  I. Christensen.
+  Errors in Visual Servoing'' authored by V. Kyrki, D. Kragic and H.  I. Christensen.
 \item ICRA-2003 Best Paper on Manipulation:  ``Automatic
   Grasp Planing using Shape Primitives'' authored by A. Miller and
   S. Knopp, H.I. Christensen and P. Allen.
 \item IROS-2002 Best Paper Award ``Behavior Coordination for
   Navigation in Real-World Office Environments'' authored by
   P. Althaus and H.I. Christensen.
-\item Jury Member of Robot Hall of Fame (2003--), Carnegie Mellon 
-  University, Pittsburgh, PA. 
+\item Jury Member of Robot Hall of Fame (2003--2013), Carnegie Mellon
+  University, Pittsburgh, PA.
 \item The Foundation Vision North 1991 Research Award.
   \begin{sublist}
-  \item  Contribution to advancement of research at the Laboratory of Image Analysis, Aalborg University.  
+  \item Contribution to advancement of research at the Laboratory of
+    Image Analysis, Aalborg University.
   \item August 1991.
-  \end{sublist}  
+  \end{sublist}
 \end{cvlist}
 \end{cv}
 \end{document}
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
