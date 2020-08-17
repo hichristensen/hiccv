@@ -1,5 +1,17 @@
 \begin{thebibliography}{100}
 
+\bibitem{paz20:metrics}
+D.~Paz, P.-J. Lai, N.~Chan, Y.~Jianf, and H.~I. Christensen, ``Autonomous
+  vehicle benchmarking using unbiased metrics,'' in {\em Internaitonal
+  Conference on Intelligent Robots and Systems (IROS)}, (Las Vegas, NV),
+  IEEE/RSJ, Oct 2020.
+
+\bibitem{paz20:mapping}
+D.~Paz, H.~Zhang, Q.~Li, H.~Xiang, and H.~I. Christensen, ``Probabilistic
+  semantic mapping for urban autonomous driving applications,'' in {\em
+  Internaitonal Conference on Intelligent Robots and Systems (IROS)}, (Las
+  Vegas, NV), IEEE/RSJ, Oct 2020.
+
 \bibitem{pal20:lookin}
 A.~Pal, S.~Mondal, and H.~I. Christensen, ````looking at the right stuff'' -
   guided semantic-gaze for autonomous driving,'' in {\em Computer Vision and
