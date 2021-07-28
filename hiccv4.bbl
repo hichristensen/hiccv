@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{dambrosia20:covid}
+C.~D'Ambrosia, H.~Christensen, and E.~Arnoff-Spenncer, ``Ruling {I}n and
+  {R}uling {O}ut {COVID-19}: {C}omputing {SARS-CoV-2} infection risk from
+  symptoms, imaging and test data,'' {\em Journal of Medical Internet Research
+  (JMIR)}, Nov 2020.
+
 \bibitem{yang20:CombaCovid}
 G.-Z. Yang, B.~Nelson, R.~Murphy, H.~Christensen, S.~Collins, P.~Dario,
   K.~Goldberg, K.~Ikuta, N.~Jacobstein, D.~Kragic, R.~Taylor, and M.~McNutt,

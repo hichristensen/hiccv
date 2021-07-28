@@ -1,15 +1,27 @@
 \begin{thebibliography}{100}
 
+\bibitem{nieto-granda21:iser}
+C.~Nieto-Granda, S.~Wang, J.~G. {Rogers III}, and H.~I. Christensen,
+  ``Distributed heterogeneous multi-robot source seeking using information
+  based sampling with visual recognition,'' in {\em 17th International
+  Symposium on Experimental Robotics.}, SPAR, (Malta), Springer Verlag, Mar
+  2021.
+
+\bibitem{qui20:corl}
+Y.~C. Qui, A.~Pal, and H.~I. Christensen, ``Target driven visual navigation
+  exploiting object relationships,'' in {\em The Conference on Robotic
+  Learning}, (Boston, MA), November 2020.
+
 \bibitem{paz20:metrics}
 D.~Paz, P.-J. Lai, N.~Chan, Y.~Jianf, and H.~I. Christensen, ``Autonomous
-  vehicle benchmarking using unbiased metrics,'' in {\em Internaitonal
+  vehicle benchmarking using unbiased metrics,'' in {\em International
   Conference on Intelligent Robots and Systems (IROS)}, (Las Vegas, NV),
   IEEE/RSJ, Oct 2020.
 
 \bibitem{paz20:mapping}
 D.~Paz, H.~Zhang, Q.~Li, H.~Xiang, and H.~I. Christensen, ``Probabilistic
   semantic mapping for urban autonomous driving applications,'' in {\em
-  Internaitonal Conference on Intelligent Robots and Systems (IROS)}, (Las
+  International Conference on Intelligent Robots and Systems (IROS)}, (Las
   Vegas, NV), IEEE/RSJ, Oct 2020.
 
 \bibitem{pal20:lookin}
@@ -89,7 +101,7 @@ A.~Huam{\'a}n~Quispe, H.~Ben~Amor, and H.~I. Christensen, {\em A Taxonomy of
   Benchmark Tasks for Robot Manipulation}, pp.~405--421.
 \newblock Cham: Springer International Publishing, 2018.
 
-\bibitem{wang18:_triton}
+\bibitem{wang18:triton}
 S.~Wang and H.~I. Christensen, ``Tritonbot: First lessons learned from
   deployment of a long-term autonomy tour guide robot,'' in {\em RoMan},
   (Nanjing, China), IEEE/RSJ, August 2018.
