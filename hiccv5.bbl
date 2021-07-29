@@ -4,8 +4,23 @@
 C.~Nieto-Granda, S.~Wang, J.~G. {Rogers III}, and H.~I. Christensen,
   ``Distributed heterogeneous multi-robot source seeking using information
   based sampling with visual recognition,'' in {\em 17th International
-  Symposium on Experimental Robotics.}, SPAR, (Malta), Springer Verlag, Mar
+  Symposium on Experimental Robotics.}, SPAR, (Malta), Springer Verlag, Nov
   2021.
+
+\bibitem{vuong2021single}
+Q.~Vuong, Y.~Qin, R.~Guo, X.~Wang, H.~Su, and H.~Christensen, ``Single rgb-d
+  camera teleoperation for general robotic manipulation,'' 2021.
+
+\bibitem{han21:_auto_method_using_stop_signs}
+Y.~Han, Y.~Liu, D.~Paz, and H.~I. Christensen, ``Auto-calibration method using
+  stop signs for urban autonomous driving applications,'' in {\em International
+  Conference on Robotics and Automation}, (Xian), IEEE, May 2021.
+
+\bibitem{paz21:tridentnet}
+D.~Paz, H.~Zhang, and H.~I. Christensen, ``{TridentNet}: A conditional
+  generative model for dynamic trajectory generation,'' in {\em Intelligent
+  Autonomous Systems-16}, (Singapore), June 2021.
+\newblock (Best paper).
 
 \bibitem{qui20:corl}
 Y.~C. Qui, A.~Pal, and H.~I. Christensen, ``Target driven visual navigation
