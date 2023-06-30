@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: hiccv5.aux
+The style file: ieeetr.bst
+Database file #1: conf-papers.bib
+Warning--string name "june" is undefined
+--line 84 of file conf-papers.bib
+Warning--I'm ignoring madhavan22:cvpr's extra "month" field
+--line 84 of file conf-papers.bib
+Reallocated field_info (elt_size=4) to 10014 items from 5000.
+You've used 260 entries,
+            1876 wiz_defined-function locations,
+            1799 strings with 52868 characters,
+and the built_in function-call counts, 74454 in all, are:
+= -- 6422
+> -- 3384
+< -- 0
++ -- 1190
+- -- 930
+* -- 6261
+:= -- 10305
+add.period$ -- 264
+call.type$ -- 260
+change.case$ -- 259
+chr.to.int$ -- 0
+cite$ -- 260
+duplicate$ -- 4305
+empty$ -- 7873
+format.name$ -- 930
+if$ -- 17876
+int.to.chr$ -- 0
+int.to.str$ -- 260
+missing$ -- 260
+newline$ -- 787
+num.names$ -- 362
+pop$ -- 1501
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2187
+stack$ -- 0
+substring$ -- 3790
+swap$ -- 1235
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 636
+width$ -- 263
+write$ -- 2653
+(There were 2 warnings)
