@@ -2,6 +2,7 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "hu23iros"
     "patil23:scalin"
     "isrr22cogrob"
     "adeleye23:putaway"
