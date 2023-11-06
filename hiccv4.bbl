@@ -1,5 +1,15 @@
 \begin{thebibliography}{10}
 
+\bibitem{paz2023conditional}
+D.~Paz, H.~Zhang, H.~Xiang, A.~Liang, and H.~I. Christensen, ``Conditional
+  generative models for dynamic trajectory generation and urban driving,'' {\em
+  Sensors}, vol.~23, no.~15, p.~6764, 2023.
+
+\bibitem{s23146504}
+H.~Zhang, S.~Venkatramani, D.~Paz, Q.~Li, H.~Xiang, and H.~I. Christensen,
+  ``Probabilistic semantic mapping for autonomous driving in urban
+  environments,'' {\em Sensors}, vol.~23, no.~14, 2023.
+
 \bibitem{dambrosia23:_physiol_intraop_error}
 C.~D'Ambrosia, E.~Spencer, E.~Huang, N.~Goldhaber, G.~Jacobsen, B.~Sandler,
   S.~Horgan, L.~Appelbaum, H.~I. Chirstensen, and R.~Broderick, ``The

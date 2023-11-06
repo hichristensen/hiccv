@@ -3,6 +3,7 @@
  (lambda ()
    (LaTeX-add-bibitems
     "roadmap2023"
+    "vuong2021single"
     "christensen20:roadmap"
     "christensen16:nextgenerrobot"
     "hager15:towarscienautonphysicsystem"

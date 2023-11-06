@@ -5,6 +5,10 @@ H.~I. Christensen and H.~Yanco, ``Mid-cycle {U}pdate to the {N}ational
   {R}obotics {R}oadmap,'' tech. rep., Computing Community Consortium (CCC),
   Washington, DC, Mar 2023.
 
+\bibitem{vuong2021single}
+Q.~Vuong, Y.~Qin, R.~Guo, X.~Wang, H.~Su, and H.~Christensen, ``Single rgb-d
+  camera teleoperation for general robotic manipulation,'' 2021.
+
 \bibitem{christensen20:roadmap}
 {H. I. Christensen (Ed.)}, ``From internet to robotics - a {US} national
   robotics roadmap - 4th edition,'' tech. rep., Computing Community Consortium

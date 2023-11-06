@@ -2,6 +2,8 @@
  "articles"
  (lambda ()
    (LaTeX-add-bibitems
+    "paz2023conditional"
+    "s23146504"
     "dambrosia23:_physiol_intraop_error"
     "10.3389/fnrgo.2022.1052411"
     "christensen21:avl"
@@ -70,5 +72,5 @@
     "eggert93:scalespaceaspecgraph"
     "christensen93:lowcostrobotcamerhead"
     "andersen92:navigusingrangeimagesmobilrobot"))
- :bibtex)
+ '(or :bibtex :latex))
 

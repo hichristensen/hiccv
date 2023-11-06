@@ -1,9 +1,33 @@
 \begin{thebibliography}{100}
 
+\bibitem{pal23iccv}
+A.~Pal, S.~Wadhwa, A.~Jaiswal, X.~Zhang, Y.~Wu, R.~Chada, P.~Natarajan, and
+  H.~I. Christensen, ``{FashionNTM}: Multi-turn fashion image retrieval via
+  cascaded memory,'' in {\em International Conf. on Computer Vision}, (Paris),
+  IEEE, Oct 2023.
+
+\bibitem{wang23case}
+L.~Wang, R.~Guo, Q.~Vuong, Y.~Qin, H.~Su, and H.~I. Christensen, ``A
+  real2sim2real method for robust object grasping with neural surface
+  reconstruction,'' in {\em 19th IEEE CASE Conference}, (Auckland, NZ), IEEE,
+  Aug 2023.
+
+\bibitem{qiu23case}
+Y.~Qiu and H.~I. Christensen, ``3d scene graph prediction on point clouds using
+  knowledge graphs,'' in {\em 19th IEEE CASE Conference}, (Auckland, NZ), IEEE,
+  Aug 2023.
+
+\bibitem{hu23iros}
+J.~Hu, Z.~Tang, and H.~I. Christensen, ``Multi-modal planning on rearrangement
+  for stable manipulation,'' in {\em 2023 IEEE/RSJ International Conference on
+  Intelligent Robots and Systems (IROS)}, October 2023.
+
 \bibitem{patil23:scalin}
-R.~Patil, A.~Langley, and H.~I. Christensen, ``Scaling up multi-agent
-  patrolling in urban environments,'' in {\em Defense + Commercial Sensing},
-  (Orlando, Fl.), May 2023.
+R.~Patil, A.~Langley, and H.~Christensen, ``{Scaling up multi-agent patrolling
+  in urban environments},'' in {\em Open Architecture/Open Business Model
+  Net-Centric Systems and Defense Transformation 2023} (R.~Suresh, ed.),
+  vol.~12544, p.~125440G, International Society for Optics and Photonics, SPIE,
+  2023.
 
 \bibitem{isrr22cogrob}
 J.~Hu, A.~Adeleye, and H.~I. Christensen, ``Place-and-pick-based re-grasping
@@ -60,10 +84,6 @@ C.~Nieto-Granda, S.~Wang, J.~G. {Rogers III}, and H.~I. Christensen,
   based sampling with visual recognition,'' in {\em 17th International
   Symposium on Experimental Robotics.}, SPAR, (Malta), Springer Verlag, Nov
   2021.
-
-\bibitem{vuong2021single}
-Q.~Vuong, Y.~Qin, R.~Guo, X.~Wang, H.~Su, and H.~Christensen, ``Single rgb-d
-  camera teleoperation for general robotic manipulation,'' 2021.
 
 \bibitem{han21}
 Y.~Han, Y.~Liu, D.~Paz, and H.~I. Christensen, ``Auto-calibration method using

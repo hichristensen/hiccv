@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hiccv4.aux
 The style file: ieeetr.bst
 Database file #1: articles.bib
-You've used 68 entries,
+You've used 70 entries,
             1876 wiz_defined-function locations,
-            867 strings with 16861 characters,
-and the built_in function-call counts, 21240 in all, are:
-= -- 2120
-> -- 967
+            877 strings with 17263 characters,
+and the built_in function-call counts, 21743 in all, are:
+= -- 2161
+> -- 1004
 < -- 0
-+ -- 346
-- -- 278
-* -- 1689
-:= -- 3045
-add.period$ -- 69
-call.type$ -- 68
-change.case$ -- 68
++ -- 359
+- -- 289
+* -- 1733
+:= -- 3127
+add.period$ -- 71
+call.type$ -- 70
+change.case$ -- 70
 chr.to.int$ -- 0
-cite$ -- 68
-duplicate$ -- 996
-empty$ -- 1748
-format.name$ -- 278
-if$ -- 5086
+cite$ -- 70
+duplicate$ -- 1022
+empty$ -- 1787
+format.name$ -- 289
+if$ -- 5203
 int.to.chr$ -- 0
-int.to.str$ -- 68
-missing$ -- 68
-newline$ -- 208
-num.names$ -- 68
-pop$ -- 100
+int.to.str$ -- 70
+missing$ -- 70
+newline$ -- 214
+num.names$ -- 70
+pop$ -- 104
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 829
+skip$ -- 843
 stack$ -- 0
-substring$ -- 1613
-swap$ -- 498
+substring$ -- 1621
+swap$ -- 508
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 217
-width$ -- 70
-write$ -- 674
+while$ -- 220
+width$ -- 72
+write$ -- 695

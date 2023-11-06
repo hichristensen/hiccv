@@ -2,6 +2,11 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "shrutheesh23"
+    "padalkar23"
+    "pal23iccv"
+    "wang23case"
+    "qiu23case"
     "hu23iros"
     "patil23:scalin"
     "isrr22cogrob"
@@ -14,7 +19,6 @@
     "langley21icrai"
     "parashar2021case"
     "nieto-granda21:iser"
-    "vuong2021single"
     "han21"
     "paz21:tridentnet"
     "qui20:corl"
