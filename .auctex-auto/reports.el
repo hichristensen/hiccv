@@ -2,6 +2,8 @@
  "reports"
  (lambda ()
    (LaTeX-add-bibitems
+    "christensen24:roadmap"
+    "paz2023occlusionaware"
     "roadmap2023"
     "vuong2021single"
     "christensen20:roadmap"

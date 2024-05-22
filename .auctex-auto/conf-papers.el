@@ -2,6 +2,9 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "abdulaziz24:RLC"
+    "hu24:rss"
+    "ranganatha24:semvec"
     "shrutheesh23"
     "padalkar23"
     "pal23iccv"
