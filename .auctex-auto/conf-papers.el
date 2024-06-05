@@ -5,6 +5,7 @@
     "abdulaziz24:RLC"
     "hu24:rss"
     "ranganatha24:semvec"
+    "dambrosia24:icra"
     "shrutheesh23"
     "padalkar23"
     "pal23iccv"

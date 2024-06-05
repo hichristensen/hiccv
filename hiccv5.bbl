@@ -6,15 +6,21 @@ H.~I.~C. Abdulaziz~Almuzairee, Nicklas~Hansen, ``A recipe for unbounded data
   Learning Conference}, (Amhurst, MA), Aug 2024.
 
 \bibitem{hu24:rss}
-J.~Hu, J.~Wong, and H.~I. Christensen, ``Motion planning in foliated manifolds
-  using repetition roadmap,'' in {\em Robotics Science and Systems (RSS)},
-  (Delft, Netherlands), July 2024.
+J.~Hu, J.~Wong, S.~R. Iyer, and H.~I. Christensen, ``Motion planning in
+  foliated manifolds using repetition roadmap,'' in {\em Robotics Science and
+  Systems (RSS)}, (Delft, Netherlands), July 2024.
 
 \bibitem{ranganatha24:semvec}
 N.~E. Ranganatha, H.~Zhang, S.~Venkatramani, J.~yan Liao, and H.~I.
   Christensen, ``{SemVecNet}: Online vector map generation with generalized
   sensor configurations,'' in {\em Intelligent Vehicles - 2024}, (Jeju Island),
   IEEE, June 2024.
+
+\bibitem{dambrosia24:icra}
+C.~D. Ambrosia, F.~Richter, Z.-Y. Chiu, N.~Shinde, F.~Liu, H.~I. Christensen,
+  and M.~C. Yip, ``Robust surgical tool tracking with pixel-based probabilities
+  for projected geometric primitives,'' in {\em Intl. Conf. of Robotics and
+  Automation}, (Yokohama, JP), pp.~15455--15462, IEEE, May 2024.
 
 \bibitem{shrutheesh23}
 S.~R. Iyer, A.~Pal, J.~Hu, A.~Adeleye, A.~Aggarwal, and H.~I. Christensen,
