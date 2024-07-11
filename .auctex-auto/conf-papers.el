@@ -1,7 +1,11 @@
+;; -*- lexical-binding: t; -*-
+
 (TeX-add-style-hook
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "zhang24:iros"
+    "liao24:iros"
     "abdulaziz24:RLC"
     "hu24:rss"
     "ranganatha24:semvec"
