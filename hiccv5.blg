@@ -4,49 +4,49 @@ The top-level auxiliary file: hiccv5.aux
 The style file: ieeetr.bst
 Database file #1: conf-papers.bib
 Warning--string name "june" is undefined
---line 260 of file conf-papers.bib
+--line 289 of file conf-papers.bib
 Warning--I'm ignoring madhavan22:cvpr's extra "month" field
---line 260 of file conf-papers.bib
+--line 289 of file conf-papers.bib
 Reallocated field_info (elt_size=4) to 10014 items from 5000.
-You've used 269 entries,
+You've used 272 entries,
             1876 wiz_defined-function locations,
-            1847 strings with 57902 characters,
-and the built_in function-call counts, 79084 in all, are:
-= -- 6604
-> -- 4039
+            1863 strings with 58657 characters,
+and the built_in function-call counts, 80097 in all, are:
+= -- 6676
+> -- 4119
 < -- 0
-+ -- 1411
-- -- 1142
-* -- 6821
-:= -- 11170
-add.period$ -- 273
-call.type$ -- 269
-change.case$ -- 268
++ -- 1438
+- -- 1166
+* -- 6920
+:= -- 11328
+add.period$ -- 276
+call.type$ -- 272
+change.case$ -- 271
 chr.to.int$ -- 0
-cite$ -- 269
-duplicate$ -- 4456
-empty$ -- 8123
-format.name$ -- 1142
-if$ -- 18780
+cite$ -- 272
+duplicate$ -- 4504
+empty$ -- 8212
+format.name$ -- 1166
+if$ -- 19007
 int.to.chr$ -- 0
-int.to.str$ -- 269
-missing$ -- 270
-newline$ -- 814
-num.names$ -- 373
-pop$ -- 1556
+int.to.str$ -- 272
+missing$ -- 273
+newline$ -- 823
+num.names$ -- 378
+pop$ -- 1573
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2244
+skip$ -- 2266
 stack$ -- 0
-substring$ -- 3852
-swap$ -- 1271
+substring$ -- 3892
+swap$ -- 1284
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 650
-width$ -- 272
-write$ -- 2745
+while$ -- 657
+width$ -- 275
+write$ -- 2776
 (There were 2 warnings)

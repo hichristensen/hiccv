@@ -1,12 +1,24 @@
 \begin{thebibliography}{100}
 
+\bibitem{zhang24:iros}
+H.~Zhang, D.~Paz, Y.~Guo, A.~Das, X.~Huang, H.~Karsten, H.~I. Christensen, and
+  L.~Ren, ``Enhancing online road network perception and reasoning with
+  standard definition maps,'' in {\em International Conference on Intelligent
+  Robots and Systems (IROS)}, (Abu Dhabi, UAE), IEEE/RSJ, October 2024.
+
+\bibitem{liao24:iros}
+J.-Y. Liao, Z.~Zhang, D.~Paz, and H.~I. Christensen, ``{OSM} vs {HD Maps}: Map
+  representations for trajectory prediction,'' in {\em International Conference
+  on Intelligent Robots and Systems (IROS)}, (Abu Dhabi, UAE), IEEE/RSJ,
+  October 2024.
+
 \bibitem{abdulaziz24:RLC}
 A.~Almuzairee, N.~Hansen, and H.~I. Christensen, ``A recipe for unbounded data
   augmentation in visual reinforcement learning,'' in {\em Reinforcement
   Learning Conference}, (Amhurst, MA), Aug 2024.
 
 \bibitem{hu24:rss}
-J.~Hu, J.~Wong, S.~R. Iyer, and H.~I. Christensen, ``Motion planning in
+J.~Hu, S.~R. Iyer, J.~Wang, and H.~I. Christensen, ``Motion planning in
   foliated manifolds using repetition roadmap,'' in {\em Robotics Science and
   Systems (RSS)}, (Delft, Netherlands), July 2024.
 
@@ -158,6 +170,13 @@ D.~Paz, H.~Zhang, and H.~I. Christensen, ``{TridentNet}: A conditional
 Y.~C. Qui, A.~Pal, and H.~I. Christensen, ``Target driven visual navigation
   exploiting object relationships,'' in {\em The Conference on Robotic
   Learning}, (Boston, MA), November 2020.
+
+\bibitem{NEURIPS2020_4496bf24}
+J.~Li, Q.~Vuong, S.~Liu, M.~Liu, K.~Ciosek, H.~Christensen, and H.~Su,
+  ``Multi-task batch reinforcement learning with metric learning,'' in {\em
+  Advances in Neural Information Processing Systems} (H.~Larochelle,
+  M.~Ranzato, R.~Hadsell, M.~Balcan, and H.~Lin, eds.), vol.~33,
+  pp.~6197--6210, Curran Associates, Inc., 2020.
 
 \bibitem{paz20:metrics}
 D.~Paz, P.-J. Lai, N.~Chan, Y.~Jianf, and H.~I. Christensen, ``Autonomous

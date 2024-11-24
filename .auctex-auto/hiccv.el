@@ -3,8 +3,10 @@
 (TeX-add-style-hook
  "hiccv"
  (lambda ()
+   (TeX-add-to-alist 'LaTeX-provided-class-options
+                     '(("article" "")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("inputenc" "latin1") ("fontenc" "T1") ("bibtopic" "unitcntnoreset") ("hyperref" "colorlinks=true" "plainpages=false")))
+                     '(("inputenc" "latin1") ("fancyhdr" "") ("charter" "") ("fontenc" "T1") ("hiccurrvita" "") ("bibtopic" "unitcntnoreset") ("tocloft" "") ("graphicx" "") ("hyperref" "colorlinks=true" "plainpages=false") ("microtype" "")))
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "href")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperref")
    (add-to-list 'LaTeX-verbatim-macros-with-braces-local "hyperimage")
