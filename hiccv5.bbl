@@ -1,5 +1,11 @@
 \begin{thebibliography}{100}
 
+\bibitem{raheema24}
+J.~Raheema, M.~Hess, R.~C. Provost, M.~Bilinski, and H.~I. Christensen,
+  ``Autonomous exploration and mapping payload integrated on a quadruped
+  robot,'' in {\em International Symposium on Robotics Research}, SPAR, (Long
+  Beach, CA), IFRR, Springer Verlag, Dec 2024.
+
 \bibitem{zhang24:iros}
 H.~Zhang, D.~Paz, Y.~Guo, A.~Das, X.~Huang, H.~Karsten, H.~I. Christensen, and
   L.~Ren, ``Enhancing online road network perception and reasoning with
