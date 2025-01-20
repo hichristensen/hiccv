@@ -4,6 +4,7 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "raheema24"
     "zhang24:iros"
     "liao24:iros"
     "abdulaziz24:RLC"
