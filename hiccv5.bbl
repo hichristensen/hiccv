@@ -1,5 +1,27 @@
 \begin{thebibliography}{100}
 
+\bibitem{diwanji2025sdenhancingstandarddefinition}
+H.~Diwanji, J.-Y. Liao, A.~Tumu, H.~I. Christensen, M.~Vazquez-Chanlatte, and
+  C.~Tsuchiya, ``{SD++}: Enhancing standard definition maps by incorporating
+  road knowledge using {LLMs},'' in {\em TBA}, 2025.
+
+\bibitem{hu25:rearrange}
+J.~Hu, J.~Szczekulski, S.~Peddabomma, and H.~I. Christensen, ``Planning for
+  tabletop object rearrangement,'' in {\em IEEE International Conference on
+  Robotics and Automation (ICRA)}, (Atlanta, GA), IEEE RAS, May 2025.
+
+\bibitem{yu25:cbf}
+H.~Yu, S.~Farrell, R.~Yoshimitsu, Z.~Qin, H.~Christensen, and S.~Gao,
+  ``Estimating control barriers from offline data,'' in {\em IEEE International
+  Conference on Robotics and Automation (ICRA)}, (Atlanta, GA), IEEE RAS, May
+  2025.
+
+\bibitem{ye25:smart}
+J.~Ye, D.~Paz, H.~Zhang, Y.~Guo, X.~Huang, H.~I. Christensen, Y.~Wang, and
+  L.~Ren, ``{SMART}: Advancing scalable map priors for driving topology
+  reasoning,'' in {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, (Atlanta, GA), IEEE RAS, May 2025.
+
 \bibitem{raheema24}
 J.~Raheema, M.~Hess, R.~C. Provost, M.~Bilinski, and H.~I. Christensen,
   ``Autonomous exploration and mapping payload integrated on a quadruped
