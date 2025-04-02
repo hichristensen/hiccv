@@ -1,52 +1,52 @@
-This is BibTeX, Version 0.99d (TeX Live 2024)
+This is BibTeX, Version 0.99d (TeX Live 2025)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: hiccv5.aux
 The style file: ieeetr.bst
 Database file #1: conf-papers.bib
 Warning--string name "june" is undefined
---line 354 of file conf-papers.bib
+--line 369 of file conf-papers.bib
 Warning--I'm ignoring madhavan22:cvpr's extra "month" field
---line 354 of file conf-papers.bib
+--line 369 of file conf-papers.bib
 Reallocated field_info (elt_size=4) to 10014 items from 5000.
-You've used 277 entries,
+You've used 278 entries,
             1876 wiz_defined-function locations,
-            1884 strings with 59763 characters,
-and the built_in function-call counts, 81265 in all, are:
-= -- 6746
-> -- 4216
+            1889 strings with 60031 characters,
+and the built_in function-call counts, 81502 in all, are:
+= -- 6760
+> -- 4236
 < -- 0
-+ -- 1472
-- -- 1195
-* -- 7039
-:= -- 11520
-add.period$ -- 281
-call.type$ -- 277
-change.case$ -- 276
++ -- 1479
+- -- 1201
+* -- 7064
+:= -- 11559
+add.period$ -- 282
+call.type$ -- 278
+change.case$ -- 277
 chr.to.int$ -- 0
-cite$ -- 277
-duplicate$ -- 4569
-empty$ -- 8332
-format.name$ -- 1195
-if$ -- 19265
+cite$ -- 278
+duplicate$ -- 4582
+empty$ -- 8356
+format.name$ -- 1201
+if$ -- 19317
 int.to.chr$ -- 0
-int.to.str$ -- 277
-missing$ -- 278
-newline$ -- 838
-num.names$ -- 383
-pop$ -- 1602
+int.to.str$ -- 278
+missing$ -- 279
+newline$ -- 841
+num.names$ -- 384
+pop$ -- 1608
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2277
+skip$ -- 2279
 stack$ -- 0
 substring$ -- 3892
-swap$ -- 1289
+swap$ -- 1290
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 662
-width$ -- 280
-write$ -- 2826
+while$ -- 663
+width$ -- 281
+write$ -- 2836
 (There were 2 warnings)

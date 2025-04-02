@@ -4,6 +4,11 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "zhang25:mapgs"
+    "diwanji2025sdenhancingstandarddefinition"
+    "hu25:rearrange"
+    "yu25:cbf"
+    "ye25:smart"
     "raheema24"
     "zhang24:iros"
     "liao24:iros"

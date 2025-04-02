@@ -1,5 +1,11 @@
 \begin{thebibliography}{100}
 
+\bibitem{zhang25:mapgs}
+H.~Zhang, D.~Paz, Y.~Guo, X.~huang, H.~Christensen, and L.~Ren, ``{MapGS}:
+  Generalizable pretraining and data augmentation for online mapping via novel
+  view synthesis,'' in {\em 36th Intelligent Vehicles Symposium (IV)},
+  (Cluj-Napoca, Romania), IEEE, June 2025.
+
 \bibitem{diwanji2025sdenhancingstandarddefinition}
 H.~Diwanji, J.-Y. Liao, A.~Tumu, H.~I. Christensen, M.~Vazquez-Chanlatte, and
   C.~Tsuchiya, ``{SD++}: Enhancing standard definition maps by incorporating
