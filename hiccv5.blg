@@ -4,21 +4,21 @@ The top-level auxiliary file: hiccv5.aux
 The style file: ieeetr.bst
 Database file #1: conf-papers.bib
 Warning--string name "june" is undefined
---line 369 of file conf-papers.bib
+--line 373 of file conf-papers.bib
 Warning--I'm ignoring madhavan22:cvpr's extra "month" field
---line 369 of file conf-papers.bib
+--line 373 of file conf-papers.bib
 Reallocated field_info (elt_size=4) to 10014 items from 5000.
 You've used 278 entries,
             1876 wiz_defined-function locations,
-            1889 strings with 60031 characters,
-and the built_in function-call counts, 81502 in all, are:
-= -- 6760
+            1889 strings with 60053 characters,
+and the built_in function-call counts, 81508 in all, are:
+= -- 6761
 > -- 4236
 < -- 0
 + -- 1479
 - -- 1201
-* -- 7064
-:= -- 11559
+* -- 7067
+:= -- 11560
 add.period$ -- 282
 call.type$ -- 278
 change.case$ -- 277
@@ -27,13 +27,13 @@ cite$ -- 278
 duplicate$ -- 4582
 empty$ -- 8356
 format.name$ -- 1201
-if$ -- 19317
+if$ -- 19318
 int.to.chr$ -- 0
 int.to.str$ -- 278
 missing$ -- 279
 newline$ -- 841
 num.names$ -- 384
-pop$ -- 1608
+pop$ -- 1607
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
@@ -48,5 +48,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 663
 width$ -- 281
-write$ -- 2836
+write$ -- 2837
 (There were 2 warnings)
