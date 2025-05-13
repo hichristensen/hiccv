@@ -4,6 +4,7 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "he25:manipulation"
     "zhang25:mapgs"
     "diwanji2025sdenhancingstandarddefinition"
     "hu25:rearrange"
