@@ -4,6 +4,9 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "chenghao25:iser"
+    "zhang25:iser25"
+    "ai25:rss"
     "he25:manipulation"
     "zhang25:mapgs"
     "diwanji2025sdenhancingstandarddefinition"
