@@ -10,15 +10,15 @@ Warning--I'm ignoring madhavan22:cvpr's extra "month" field
 Reallocated field_info (elt_size=4) to 10014 items from 5000.
 You've used 282 entries,
             1876 wiz_defined-function locations,
-            1906 strings with 60999 characters,
-and the built_in function-call counts, 82518 in all, are:
+            1906 strings with 61008 characters,
+and the built_in function-call counts, 82557 in all, are:
 = -- 6820
-> -- 4326
+> -- 4335
 < -- 0
-+ -- 1509
-- -- 1227
-* -- 7175
-:= -- 11731
++ -- 1512
+- -- 1230
+* -- 7182
+:= -- 11740
 add.period$ -- 286
 call.type$ -- 282
 change.case$ -- 281
@@ -26,8 +26,8 @@ chr.to.int$ -- 0
 cite$ -- 282
 duplicate$ -- 4634
 empty$ -- 8454
-format.name$ -- 1227
-if$ -- 19537
+format.name$ -- 1230
+if$ -- 19543
 int.to.chr$ -- 0
 int.to.str$ -- 282
 missing$ -- 283
@@ -37,7 +37,7 @@ pop$ -- 1630
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2288
+skip$ -- 2287
 stack$ -- 0
 substring$ -- 3892
 swap$ -- 1294

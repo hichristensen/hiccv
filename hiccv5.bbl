@@ -1,17 +1,17 @@
 \begin{thebibliography}{100}
 
 \bibitem{chenghao25:iser}
-S.~F. Chenghao~Li, Tong~Shen and H.~Christensen, ``Light-weight autonomous
+C.~Li, T.~Shen, S.~Farrell, and H.~Christensen, ``Light-weight autonomous
   driving scooter for urban micro-mobility,'' in {\em Intl Symposium on
   Experimental Robotics (ISER)} (H.~I. Christensen and O.~Khatib, eds.), (Santa
   Fe, NM), IFRR, Springer Verlag, July 2025.
 
 \bibitem{zhang25:iser25}
-Z.~Zhang, A.~Ravichandran, P.~Korti, and H.~I.~C. Luobin~Wang, ``Real-time
-  online mapping for autonomous driving : Addressing sensor generalization and
-  dynamic map updates in campus environments,'' in {\em Intl Symposium on
-  Experimental Robotics (ISER)} (H.~I. Christensen and O.~Khatib, eds.), (Santa
-  Fe, NM), IFRR, Springer Verlag, July 2025.
+Z.~Zhang, A.~Ravichandran, P.~Korti, L.~Wang, and H.~I. Christensen,
+  ``Real-time online mapping for autonomous driving : Addressing sensor
+  generalization and dynamic map updates in campus environments,'' in {\em Intl
+  Symposium on Experimental Robotics (ISER)} (H.~I. Christensen and O.~Khatib,
+  eds.), (Santa Fe, NM), IFRR, Springer Verlag, July 2025.
 
 \bibitem{ai25:rss}
 B.~Ai, L.~Dai, N.~Bohlinger, D.~Li, T.~Mu, Z.~Wu, K.~Fay, H.~I. Christensen,
