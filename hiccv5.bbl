@@ -1,5 +1,24 @@
 \begin{thebibliography}{100}
 
+\bibitem{chenghao25:iser}
+S.~F. Chenghao~Li, Tong~Shen and H.~Christensen, ``Light-weight autonomous
+  driving scooter for urban micro-mobility,'' in {\em Intl Symposium on
+  Experimental Robotics (ISER)} (H.~I. Christensen and O.~Khatib, eds.), (Santa
+  Fe, NM), IFRR, Springer Verlag, July 2025.
+
+\bibitem{zhang25:iser25}
+Z.~Zhang, A.~Ravichandran, P.~Korti, and H.~I.~C. Luobin~Wang, ``Real-time
+  online mapping for autonomous driving : Addressing sensor generalization and
+  dynamic map updates in campus environments,'' in {\em Intl Symposium on
+  Experimental Robotics (ISER)} (H.~I. Christensen and O.~Khatib, eds.), (Santa
+  Fe, NM), IFRR, Springer Verlag, July 2025.
+
+\bibitem{ai25:rss}
+B.~Ai, L.~Dai, N.~Bohlinger, D.~Li, T.~Mu, Z.~Wu, K.~Fay, H.~I. Christensen,
+  J.~Peters, and H.~Su, ``Towards embodiment scaling laws in robot
+  locomotion,'' in {\em RSS Workshop on Hardware Intelligence}, (Los Angeles,
+  CA), June 2025.
+
 \bibitem{he25:manipulation}
 Z.~He, B.~Ai, Y.~Liu, W.~Wan, H.~I. Christensen, and H.~Su, ``Learning
   dexterous deformable object manipulation through cross-embodiment dynamics
