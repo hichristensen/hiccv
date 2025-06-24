@@ -1,5 +1,10 @@
 \begin{thebibliography}{100}
 
+\bibitem{hu2025cprrtcgpuparallelrrtconnectconstrained}
+J.~Hu, J.~Wang, and H.~Christensen, ``{cpRRTC: GPU}-parallel rrt-connect for
+  constrained motion planning,'' in {\em RSS WOrkshop on Paralelized Planning},
+  (Los Angeles, CA), June 2025.
+
 \bibitem{chenghao25:iser}
 C.~Li, T.~Shen, S.~Farrell, and H.~Christensen, ``Light-weight autonomous
   driving scooter for urban micro-mobility,'' in {\em Intl Symposium on
@@ -12,6 +17,12 @@ Z.~Zhang, A.~Ravichandran, P.~Korti, L.~Wang, and H.~I. Christensen,
   generalization and dynamic map updates in campus environments,'' in {\em Intl
   Symposium on Experimental Robotics (ISER)} (H.~I. Christensen and O.~Khatib,
   eds.), (Santa Fe, NM), IFRR, Springer Verlag, July 2025.
+
+\bibitem{tumu2025usinglanguageroadmanuals}
+A.~Tumu, H.~I. Christensen, M.~Vazquez-Chanlatte, C.~Tsuchiya, and D.~Bhanderi,
+  ``Using language and road manuals to inform map reconstruction for autonomous
+  driving,'' in {\em RSS Workshop on Robot Evaluation}, (Los Angeles, CA), June
+  2025.
 
 \bibitem{ai25:rss}
 B.~Ai, L.~Dai, N.~Bohlinger, D.~Li, T.~Mu, Z.~Wu, K.~Fay, H.~I. Christensen,
