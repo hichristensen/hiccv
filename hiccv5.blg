@@ -11,7 +11,7 @@ Reallocated field_info (elt_size=4) to 10014 items from 5000.
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 You've used 284 entries,
             1876 wiz_defined-function locations,
-            1914 strings with 61457 characters,
+            1914 strings with 61459 characters,
 and the built_in function-call counts, 82971 in all, are:
 = -- 6846
 > -- 4363

@@ -1,7 +1,7 @@
 \begin{thebibliography}{100}
 
 \bibitem{hu2025cprrtcgpuparallelrrtconnectconstrained}
-J.~Hu, J.~Wang, and H.~Christensen, ``{cpRRTC: GPU}-parallel rrt-connect for
+J.~Hu, J.~Wang, and H.~Christensen, ``{cpRRTC: GPU}-parallel {RRT}-connect for
   constrained motion planning,'' in {\em RSS WOrkshop on Paralelized Planning},
   (Los Angeles, CA), June 2025.
 
