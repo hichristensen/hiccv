@@ -1,7 +1,10 @@
+;; -*- lexical-binding: t; -*-
+
 (TeX-add-style-hook
  "articles"
  (lambda ()
    (LaTeX-add-bibitems
+    "dambrosia25"
     "paz2023conditional"
     "s23146504"
     "dambrosia23:_physiol_intraop_error"

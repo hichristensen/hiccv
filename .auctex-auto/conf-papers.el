@@ -4,8 +4,10 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "hu2025cprrtcgpuparallelrrtconnectconstrained"
     "chenghao25:iser"
     "zhang25:iser25"
+    "tumu2025usinglanguageroadmanuals"
     "ai25:rss"
     "he25:manipulation"
     "zhang25:mapgs"
