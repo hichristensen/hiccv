@@ -1,5 +1,15 @@
 \begin{thebibliography}{100}
 
+\bibitem{almuzairee2025merging}
+A.~Almuzairee, R.~P. Patil, D.~Bhatt, and H.~I. Christensen, ``Merging and
+  disentangling views in visual reinforcement learning for robotic
+  manipulation,'' in {\em 9th Annual Conference on Robot Learning}, 2025.
+
+\bibitem{ai2025towards}
+B.~Ai, L.~Dai, N.~Bohlinger, D.~Li, T.~Mu, Z.~Wu, K.~Fay, H.~I. Christensen,
+  J.~Peters, and H.~Su, ``Towards embodiment scaling laws in robot
+  locomotion,'' in {\em 9th Annual Conference on Robot Learning}, 2025.
+
 \bibitem{hu2025cprrtcgpuparallelrrtconnectconstrained}
 J.~Hu, J.~Wang, and H.~Christensen, ``{cpRRTC: GPU}-parallel {RRT}-connect for
   constrained motion planning,'' in {\em RSS WOrkshop on Paralelized Planning},
