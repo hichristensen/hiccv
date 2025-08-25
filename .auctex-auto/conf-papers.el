@@ -4,6 +4,9 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "farell25:case"
+    "almuzairee2025merging"
+    "ai2025towards"
     "hu2025cprrtcgpuparallelrrtconnectconstrained"
     "chenghao25:iser"
     "zhang25:iser25"
