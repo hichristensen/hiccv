@@ -1,5 +1,10 @@
 \begin{thebibliography}{10}
 
+\bibitem{ai25scirob}
+B.~Ai, S.~Tian, H.~Shi, Y.~Wang, T.~Pfaff, C.~Tan, H.~I. Christensen, H.~Su,
+  J.~Wu, and Y.~Li, ``A review of learning-based dynamics models for robotic
+  manipulation,'' {\em Science Robotics}, vol.~10, Sept 2025.
+
 \bibitem{dambrosia25}
 C.~D'Ambrosia, E.~Y. Huang, N.~H. Goldhaber, G.~R. Jacobsen, B.~Sandler,
   S.~Horgan, L.~G. Appelbaum, H.~Christensen, and R.~C. Broderick,
