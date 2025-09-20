@@ -1,5 +1,11 @@
 \begin{thebibliography}{100}
 
+\bibitem{farell25:case}
+S.~Farell, C.~Li, H.~Yu, R.~Yoshimitsu, S.~Gao, and H.~I. Christensen, ``Safe
+  human robot navigation in warehouse scenario,'' in {\em {IEEE 21st
+  International Conference on Automation Science and Engineering (CASE)}}, (Los
+  Angeles, CA), August 2025.
+
 \bibitem{almuzairee2025merging}
 A.~Almuzairee, R.~P. Patil, D.~Bhatt, and H.~I. Christensen, ``Merging and
   disentangling views in visual reinforcement learning for robotic
