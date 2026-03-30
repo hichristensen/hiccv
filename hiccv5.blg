@@ -4,37 +4,39 @@ The top-level auxiliary file: hiccv5.aux
 The style file: ieeetr.bst
 Database file #1: conf-papers.bib
 Reallocated field_info (elt_size=4) to 10014 items from 5000.
+Warning--empty booktitle in 
+Warning--empty year in 
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-You've used 287 entries,
+You've used 288 entries,
             1876 wiz_defined-function locations,
-            1923 strings with 61930 characters,
-and the built_in function-call counts, 83680 in all, are:
-= -- 6883
-> -- 4429
+            1925 strings with 62124 characters,
+and the built_in function-call counts, 83894 in all, are:
+= -- 6892
+> -- 4449
 < -- 0
-+ -- 1545
-- -- 1258
-* -- 7288
-:= -- 11922
++ -- 1552
+- -- 1264
+* -- 7308
+:= -- 11956
 add.period$ -- 291
-call.type$ -- 287
-change.case$ -- 286
+call.type$ -- 288
+change.case$ -- 287
 chr.to.int$ -- 0
-cite$ -- 287
-duplicate$ -- 4699
-empty$ -- 8574
-format.name$ -- 1258
-if$ -- 19792
+cite$ -- 290
+duplicate$ -- 4711
+empty$ -- 8596
+format.name$ -- 1264
+if$ -- 19837
 int.to.chr$ -- 0
-int.to.str$ -- 287
-missing$ -- 288
-newline$ -- 868
-num.names$ -- 397
-pop$ -- 1667
+int.to.str$ -- 288
+missing$ -- 289
+newline$ -- 871
+num.names$ -- 398
+pop$ -- 1677
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2297
+skip$ -- 2299
 stack$ -- 0
 substring$ -- 3892
 swap$ -- 1299
@@ -42,7 +44,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 674
-width$ -- 290
-write$ -- 2921
+warning$ -- 2
+while$ -- 675
+width$ -- 291
+write$ -- 2927
+(There were 2 warnings)
