@@ -4,6 +4,7 @@
  "articles"
  (lambda ()
    (LaTeX-add-bibitems
+    "ai25scirob"
     "dambrosia25"
     "paz2023conditional"
     "s23146504"

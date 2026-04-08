@@ -4,6 +4,7 @@
  "conf-papers"
  (lambda ()
    (LaTeX-add-bibitems
+    "raheema-2026-roscoe"
     "farell25:case"
     "almuzairee2025merging"
     "ai2025towards"
