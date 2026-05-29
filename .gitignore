@@ -1,0 +1,14 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
+# AUCTeX auto-generated
+.auctex-auto/
+
+# macOS
+.DS_Store
