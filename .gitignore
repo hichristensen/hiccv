@@ -5,9 +5,11 @@
 *.fdb_latexmk
 *.fls
 *.log
+*.out
 *.synctex.gz
 
 # AUCTeX auto-generated
+auto/
 .auctex-auto/
 
 # macOS
