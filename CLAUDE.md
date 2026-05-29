@@ -6,8 +6,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A LaTeX academic Curriculum Vitae for Henrik Iskov Christensen (UC San Diego). The output is `hiccv.pdf`.
 
-> Note: `README.md` and `requirements.txt` appear to belong to a different project (an OAK-D camera viewer) and should be ignored.
-
 ## Building
 
 ```bash
